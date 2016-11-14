@@ -1,0 +1,2 @@
+# wixarikacorpora
+Wixarika language corpora
