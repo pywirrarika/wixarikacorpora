@@ -1,5 +1,5 @@
 # Wixarika Corpora
-##Wixarika language corpora.
+## Wixarika language corpora.
 
 At the moment this corpora is in his eary stage, and contins 3 files:
 - *segcorpus.wixes* high quality paired corpus with , with Wixarika word segmentation.
