@@ -1,3 +1,7 @@
+#!/bin/bash
+
+# Jesús Mager, 2017, licenced with GPL3+
+
 import random
 
 corpus = open("largecorpus.wixes", "r").read().split("\n")
