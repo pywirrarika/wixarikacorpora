@@ -25,5 +25,4 @@ Derivates from this files are:
 
 - *sept.py*  Separates training set from testing set, and reduce the corpus to unique lines. This script is GPL 3+
 
-## Usage
 
