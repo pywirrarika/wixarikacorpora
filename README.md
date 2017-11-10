@@ -27,6 +27,3 @@ Derivates from this files are:
 
 ## Usage
 
-If you use this corpus in a way that leads to a publication, it is considered polite to cite the following paper:
-
-Jesús Manuel Mager Hois, Diónico Carrillo Gonzalez and Ivan Vladimir Meza Ruíz. *WixNLP: Probabilistic Finite-State morphological analyzer for Wixarika language. In WiNLP Workshop on Association for Computational Linguistics (ACL)*, Vancouver, Canada, August 2017.
