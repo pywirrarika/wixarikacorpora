@@ -1,12 +1,12 @@
-0 chulada ES
-0 . OTHER
-0 m+pa+ WIX
-0 y+anet+ WIX
+0 chulada ES-SLANG
+0 .... OTHER
+0 m+|pa+ WIX
+0 y+|ane|t+ WIX
 0 , OTHER 
 0 'iyari WIX
 0 niuka WIX
-0 xeiyam+k+ WIX
-0 . OTHER
+0 xe|i|ya|m+k+ WIX
+0 .... OTHER
 0 abrazos ES
 0 hijo ES
 
@@ -28,7 +28,7 @@
 2 Testiga ES
 2 jjj OTHER
 2 guapas ES
-2 ukarí
+2 uka|rí WIX
 2 😀 OTHER
 2 😍 OTHER
 2 😘 OTHER
@@ -36,339 +36,348 @@
 3 Wou OTHER
 3 muy ES
 3 bien ES
-3 . OTHER
+3 ... OTHER
 3 Ustedes ES
 3 salu2 ES-SLANG
 3 aa ES
-3 xeyunaitu WIX
+3 xe|yunai|tu WIX
 3 . OTHER
 
-4 Jajajaja OTHER
-4 yariku WIX
-4 ya ES
-4 no ES
-4 me ES
-4 peino ES
-
-5 Kepety WIX
+5 Ke|pety WIX
 5 . OTHER
 5 ane WIX
 5 . OTHER
 5 uka WIX
-5 . OTHER
+5 .. OTHER
 5 muy ES
 5 guapa ES
-5 . OTHER
-5 😍😘 OTHER
+5 .. OTHER
+5 😍 OTHER
+5 😘 OTHER
 
-6 Jajajaja
-6 yariku
-6 ya
-6 no
-6 me
-6 peino
-7 Felicidades
-7 ne
-7 uki
-7 aku
-7 😙🍺pero
-7 temando
-7 abrazo
-7 paraty
-7 uki
-7 😚😙au
-8 Nada
-8 mal
-8 eku
-8 😝😔🙋😜😘
-9 Ijuezooo
-9 tsi
-9 peuka
-9 mu
+6 Jajajaja OTHER
+6 ya|ri|ku WIX
+6 ya ES
+6 no ES
+6 me ES
+6 peino ES
+
+7 Felicidades ES
+7 ne|uki WIX
+7 aku WIX
+7 😙
+7 🍺
+7 pero ES
+7 temando ES
+7 abrazo ES
+7 paraty ES-SLANG
+7 uki WIX
+7 😚
+7 😙
+7 au WIX
+
+8 Nada ES
+8 mal ES
+8 eku WIX
+8 😝
+8 😔
+8 🙋
+8 😜
+8 😘
+
+9 Ijuezooo AMBIGuous
+9 tsi|pe|ukar|mu WIX
 9 ,
-9 u
-9 yewa
-9 NE
-9 k
-9 pe
-9 it+arie
-10 Si
-10 nos
-10 vemos
-10 bien
-10 a
-10 ku
-10 me
+9 u|yewa
+9 NE NE
+9 k|pe|it+a|rie WIX
+
+10 Si ES
+10 nos ES
+10 vemos ES
+10 bien ES
+10 a|ku|me WIX
+
 11 Mm
-11 ne
-11 kwe
-11 ramate
+11 ne[WIX]|kwe[WIX]|ramate[ES] MIXED
 11 !
-11 Tu
-11 donde
-11 lo
-11 dejastes😂
-12 kiawa
-12 a
-12 novio
-12 NE
-12 aku
-12 netiaa
-13 Muy
-13 cierto
-13 eku
-13 uki
-14 Ke
-14 kuta
-14 rik+
-14 neniña
-15 Nee
-15 waik+
-15 aniña
+11 Tu ES
+11 donde ES
+11 lo ES
+11 dejastes ES
+11 😂
+
+12 kiawa WIX
+12 a[WIX]|novio[ES] MIXED
+12 NE NE
+12 aku WIX
+12 ne[WIX]|tiaa[ES] MIXED
+
+13 Muy ES
+13 cierto ES
+13 eku WIX
+13 uki WIX
+
+14 Ke|kuta|rik+ ES
+14 ne|niña MIXED
+- ne WIX
+- niña ES
+
+15 Nee WIX
+15 waik+ WIX
+15 a|niña MIXED
+- a WIX
+- niña ES
 15 jajajaja
-16 Ya
-16 casi
-16 rik+
-16 😂😂😂neu
-16 ta
-16 x+xime
-17 haora
-17 padonde
-17 ,
+
+16 Ya ES
+16 casi ES
+16 rik+ WIX
+16 😂
+16 😂
+16 😂
+16 neu|ta|x+|xime WIX
+
+17 haora ES-SLANG
+17 padonde ES-SLANG
+17 ,,,
 17 jeje
-17 saludos
-17 ek+
+17 saludos ES
+17 ek+ WIX
+
 18 Guauu
-18 ke
-18 kuta
-18 saludos
-18 uka
-19 ekewari
-19 tsinari
-19 uka
-19 +imari
+18 ke|kuta WIX
+18 saludos ES
+18 uka WIX
+
+19 e|ke|wari WIX
+19 tsi|na|ri WIX
+19 uka WIX
+19 +imari WIX
 19 jejeje
-19 y
-19 saludos
-19 .
-20 Comienza
-20 un
-20 nuevo
-20 año
-20 y
-20 yo
-20 les
-20 deseo
-20 yunaime
-20 ne
-20 marema
+19 y ES
+19 saludos ES
+19 .....
+
+20 Comienza ES
+20 un ES
+20 nuevo ES
+20 año ES
+20 y ES
+20 yo ES
+20 les ES
+20 deseo ES
+20 yu|nai|me WIX
+20 ne|marema WIX
 20 ,
-20 ne
-20 iwama
+20 ne|iwama WIX
 20 ,
-20 ne
-20 hamikuma
+20 ne|hamiku|ma MIXED
+- ne WIX
+- hamiku ES-SLANG
+- ma WIX
 20 ,
-20 que
-20 sea
-20 de
-20 muchas
-20 bendiciones
+20 que ES
+20 sea ES
+20 de ES
+20 muchas ES
+20 bendiciones ES
 20 ,
-20 alegrías
+20 alegrías ES
 20 ,
-20 amor
+20 amor ES
 20 ,
-20 felicidad
-20 y
-20 muchas
-20 sorpresas
-20 bellas
-20 para
-20 su
-20 vida
+20 felicidad ES
+20 y ES
+20 muchas ES
+20 sorpresas ES
+20 bellas ES
+20 para ES
+20 su ES
+20 vida ES
 20 .
-20 Valora
-20 lo
-20 que
-20 tienes
+20 Valora ES
+20 lo ES
+20 que ES
+20 tienes ES
 20 ,
-20 supera
-20 lo
-20 que
-20 te
-20 duele
-20 y
-20 lucha
-20 por
-20 lo
-20 que
-20 quieres
+20 supera ES
+20 lo ES
+20 que ES
+20 te ES
+20 duele ES
+20 y ES
+20 lucha ES
+20 por ES
+20 lo ES
+20 que ES
+20 quieres ES
 20 !
-21 Igual
-21 mente
-21 neamiku
-21 k
-21 lo
-21 pases
-21 bn
-22 Muchas
-22 gracias
-22 amigo
+
+21 Igual ES
+21 mente ES
+21 neamiku MIXED
+- ne WIX
+- amiku ES-SLANG
+21 k ES-SLANG
+21 lo ES
+21 pases ES
+21 bn ES-SLANG
+
+22 Muchas ES
+22 gracias ES
+22 amigo ES
 22 .
 22 .
-22 igualmente
-22 ya
-22 reik+@
-22 ne
-22 paine
-22 ne
-22 au
-22 .
-23 K
-23 guapa
-23 padrino
-24 Simplemente
-24 Yo
+22 igualmente ES
+22 ya|rei|k+@ WIX
+22 ne|paine WIX
+22 ne|au WIX
+22 ..
+
+24 Simplemente ES
+24 Yo ES
 24 !
-24 Wixarika
-24 Maka
-24 Huta
-24 y
-24 vamos
-24 por
-24 otra
-24 mas
+24 Wixarika WIX
+24 Maka WIX
+24 Huta WIX
+24 y ES
+24 vamos ES
+24 por ES
+24 otra ES
+24 mas ES
 24 jjj
-24 .
-24 kentiy+weni
-24 tsiet+
-24 xewit
-24 meri
-24 te
-24 u
-24 uwa
+24 ...
+24 kentiy+weni WIX
+24 tsiet+ WIX
+24 xewit WIX
+24 meri WIX
+24 te|u|uwa WIX
 24 !
-24 saludos
-24 ne
-24 marema
+24 saludos ES
+24 ne|marema WIX
 24 !
-25 aa
-25 auuu
-25 pero
-25 ts+
-25 enk+
-25 penka
-25 yuwe
+
+25 aa ES
+25 auuu WIX
+25 pero ES
+25 ts+|enk+ WIX
+25 penka WIX
+25 yuwe WIX
 25 jajajajaja
-25 .
-26 gracias
-26 .
-26 heiwats+
-26 x+ka
-26 aix+
-26 ne
-26 uyu
-26 kuyurieni
-26 yani
-26 niuy+neni
+25 ...
+
+26 gracias ES
+26 !
+26 ...
+26 heiwats+ WIX
+26 x+ka WIX
+26 aix+ WIX
+26 ne|uyu WIX
+26 ku|yurie|ni WIX
+26 yani WIX
+26 niuy+neni WIX
 26 !
 26 jjjj
-27 xei
-27 kiriwayarii
-27 xeik+a
-27 nepe
-27 axix+
-27 ne
-27 hamik+
-27 .
-27 ent+t+
-27 y
-27 luego
-27 empapa
-27 xeik+a
+
+27 xei WIX
+27 kiriwayarii WIX
+27 xeik+a WIX
+27 ne|pe|axix+ WIX
+27 ne|hamik+ MIXED
+27 ...
+27 en|t+t+ MIXED
+27 y WIX
+27 luego WIX
+27 empapa WIX
+27 xeik+a WIX
 27 jajja
-28 No
-28 puedo
-28 leerlos
-28 k
-28 dicen
-28 .
-28 kuinie
-28 kutarik+
-28 tep+
-28 anene
-29 No
+
+28 No ES
+28 puedo ES
+28 leerlos ES
+28 k ES-SLANG
+28 dicen ES
+28 ..
+28 kuinie WIX
+28 kuta|ri|k+ WIX 
+28 tep+ WIX
+28 anene WIX
+
+29 No ES
 29 ,
-29 son
-29 karimutsi
-29 ando
-29 en
-29 mexico
-29 ya
-29 vez
-29 el
-29 indio
-29 con
-29 mi
-29 takutsi
-30 Meets+
-30 El
-30 Chalate
-30 Tuapurie
-30 Kuruxi
-30 Wakaa
-30 Tateikie
-30 Nueva
-30 Colonia
-30 M+
-30 Tiuyehane
-30 Ne
-30 Me
-30 Maarie
-31 hu
-31 yuri
-31 tam+
-31 ay
-31 ke
-31 dejar
-31 a
-31 un
-31 lado
-31 la
-31 jente
+29 son ES
+29 karimutsi WIX
+29 ando ES
+29 en ES
+29 mexico NE.ES
+29 ya ES
+29 vez ES
+29 el ES
+29 indio ES
+29 con ES
+29 mi ES 
+29 ta|kutsi WIX
+
+30 Meets+ WIX
+30 El ES
+30 Chalate ES-SLANG
+30 Tuapurie NE.WIX
+30 Kuruxi WIX
+30 Wakaa WIX
+30 Tateikie NE.WIX
+30 Nueva Colonia NE.ES
+30 M+|t|u|ye|hane WIX
+30 Ne|Me|Maarie WIX
+
+31 hu WIX
+31 yuri WIX
+31 tam+ WIX
+31 ay ES-SLANG
+31 ke ES-SLANG
+31 dejar ES
+31 a ES
+31 un ES
+31 lado ES
+31 la ES
+31 jente ES-SLANG
 31 .
-31 .
-32 Pero
-32 como
-32 penkauka
-32 iwa
-32 kewats+ri
+1 ....
+
+32 Pero ES
+32 como ES
+32 penkauka WIX
+32 iwa WIX 
+32 kewats+ri WIX
 32 jakajajaj
-33 Aix+
-33 kwenet+
+
+33 Aix+ WIX
+33 kwenet+ WIX
 33 .
-33 Nematsuri
+33 Nematsuri WIX
 33 .
-33 'Uxa'a
-33 ta'equipo
-33 m+ra'iwa
+33 'Uxa'a WIX
+33 ta|equipo MIXED
+33 m+ra'iwa ES
 33 .
-33 Pa+
-33 reik+a
+33 Pa+ WIX
+33 reik+a ES
 33 !
-34 la
-34 chula
-34 de
-34 wen+iiiii
+
+34 la ES
+34 chula ES-SLANG
+34 de ES
+34 wen+iiiii WIX
 34 .
+
 35 la
 35 chula
 35 de
 35 ninita
 35 ne
 35 balu
-35 .
+35 ...
+
 36 Ne
 36 mare
 36 !
@@ -376,14 +385,17 @@
 36 echiwa
 36 !
 36 Saludos
+
 37 Ke
 37 kuta
 37 kwinie
 37 chipeutitemaik+
-37 .
+37 ...
 37 Saludos
 37 xochl
+
 38 neamolsitha
+
 39 Mis
 39 mejores
 39 deseos
@@ -397,7 +409,7 @@
 39 y
 39 de
 39 alegria
-39 .
+39 ...
 39 Gracias
 39 x
 39 un
@@ -407,33 +419,37 @@
 39 un
 39 año
 39 menos
-39 .
+39 ...
 39 De
 39 yuri
+
 40 a
 40 cuñada
 40 kunie
 40 anetu
 40 hiii
 40 saludias
+
 41 saludos
 41 uka
 41 va
+
 42 K
 42 kuta
 42 te
 42 pa
 42 iwarie
-42 .
+42 ....
 42 Nos
 42 hicieron
 42 birria
 42 .
-42 .
+42 ..
 42 tsiepakuta
 42 hay
 42 pala
 42 otra
+
 43 Karik+tsu
 43 pu
 43 ne
@@ -446,6 +462,7 @@
 43 ne
 43 amiga
 43 NE
+
 44 ¡
 44 RECUERDA
 44 NOS
@@ -462,6 +479,7 @@
 44 NE
 44 'IWAMA
 44 !
+
 45 ¡
 45 VEN
 45 ,
@@ -471,13 +489,14 @@
 45 ,
 45 PAMPARIYUTSI
 45 !
+
 46 Una
 46 preunga
 46 ,
 46 donde
 46 es
 46 eso
-46 ?
+46 ??
 46 Tatei
 46 -
 46 Kie
@@ -493,13 +512,15 @@
 46 gustó
 46 mucho
 46 !
+
 47 Siiiiii
 47 m+tat+
+
 48 Ammm
 48 .
 48 bueno
 48 .
-48 .
+48 ..
 48 mas
 48 te
 48 vale
@@ -508,34 +529,40 @@
 48 iwaru
 48 shula
 48 elmosha
+
 49 Esa
 49 norma
-49 .
+49 ....
 49 el
 49 sapo
 49 kere'ane
+
 50 neta
 50 ne
 50 tsuri
 50 kameti
 50 nake
-50 .
+50 ...
 50 aku
 50 ne
 50 kunatsi
+
 51 ket+
 51 kuta
 51 ukari
-51 .
+51 ..
 51 comoke
 51 neuxemate
+
 52 puro
 52 teut+a
+
 53 Eso
 53 es
 53 todo
 53 puro
 53 temut+a
+
 54 Sin
 54 más
 54 están
@@ -551,6 +578,7 @@
 54 Híkuri
 54 Neixa
 54 .
+
 55 el
 55 Pronunciamiento
 55 de
@@ -561,6 +589,7 @@
 55 de
 55 Keiyatsita
 55 .
+
 56 tradicionales
 56 en
 56 los
@@ -569,19 +598,23 @@
 56 sagrados
 56 como
 56 KEIYATSITA
-56 (Rosarito
+56 (
+56 Rosarito
 56 ,
-56 Nay)
-56 ,
+56 Nay
+56 ),
 56 PAR+YA
 56 TEK+A
-56 (Cerro
-56 Quemado)
-56 ,
+56 (
+56 Cerro
+56 Quemado
+56 ),
 56 UTUTAWITA
-56 (Cerro
+56 (
+56 Cerro
 56 de
-56 Dios)
+56 Dios
+56 )
 56 muy
 56 cerca
 56 de
@@ -590,21 +623,26 @@
 56 Dgo
 56 ,
 56 Kewimutaa
-56 (Ixtalpa
+56 (
+56 Ixtalpa
 56 ,
-56 Nay)
-56 ,
+56 Nay
+56 ),
 56 COHAMIATA
-56 (Cerca
+56 (
+56 Cerca
 56 de
 56 San
 56 Andrés
-56 Cohamiata)
+56 Cohamiata
+56 )
+
 57 BACHILLERATO
 57 INTERCULTURAL
 57 “TAKUTSI
 57 NIUKIEYA”
 57 .
+
 58 saludos
 58 cuídate
 58 mucho
@@ -612,15 +650,17 @@
 58 wixarika
 58 xeik+a
 58 Aku
+
 59 Ek+ts+
 59 pe
 59 ne
 59 Aukwe
-59 .
+59 ...
 59 Así
 59 va
 59 una
 59 canción
+
 60 No
 60 es
 60 cierto
@@ -633,6 +673,7 @@
 60 ts+
 60 pemune
 60 'Aukwe
+
 61 Hola
 61 amiga
 61 tu
@@ -642,21 +683,23 @@
 61 hermosa
 61 aku
 61 ts+
+
 62 Saludos
 62 a
 62 ambas
-62 .
+62 ...
 62 Aixu
 62 xep+teyuxexeiya
 62 .
+
 63 Mínimo
-63 .
+63 ...
 63 Un
 63 saludo
-63 .
+63 ..
 63 Pal
 63 Ukiratsi
-63 .
+63 ...
 63 Ya
 63 que
 63 no
@@ -665,7 +708,8 @@
 63 ni
 63 los
 63 xaip+
-63 .
+63 ...
+
 64 Ne
 64 iwa
 64 !
@@ -679,18 +723,20 @@
 64 este
 64 año
 64 pues
-64 .
+64 ...
 64 saludos
+
 65 Ne
 65 kati
 65 ter+wawe
 65 wixarikaku
-65 .
+65 ..
 65 pero
 65 esta
 65 chido
-65 .
+65 ..
 65 saludos
+
 66 Hiik+
 66 xeik+a
 66 peyetuiwa
@@ -702,9 +748,10 @@
 66 nexapa
 66 Nemetsiniut+a
 66 .
+
 67 Hola
 67 iris
-67 .
+67 ...
 67 Podría
 67 ser
 67 'Aix+
@@ -716,9 +763,10 @@
 67 según
 67 el
 67 caso
-67 .
+67 ...
 67 Saludos
 67 .
+
 68 EL
 68 LUGAR
 68 SAGRADO
@@ -738,6 +786,7 @@
 68 ,
 68 Jalisco
 68 ,
+
 69 Ne
 69 iwa
 69 Tutupika
@@ -753,11 +802,13 @@
 69 tienes
 69 otros
 69 colores
-69 !
+69 !!!
+
 70 Claro
 70 gusto
 70 ne'iwa
 70 .
+
 71 Te
 71 quiero
 71 Iwa
@@ -767,20 +818,24 @@
 71 en
 71 mis
 71 rezos
+
 72 Abrazos
 72 y
 72 mucha
 72 fé
 72 Tutu
+
 73 Ke
 73 ,
 73 kuta
 73 chulas
 73 ellas
+
 74 Gracias
 74 !
 74 Ne
 74 plimo
+
 75 Jeje
 75 ,
 75 kepai
@@ -789,10 +844,12 @@
 75 tengo
 75 ese
 75 dinero
+
 76 Hely
 76 wanio
 76 ya
 76 anet+
+
 77 Jeje
 77 .
 77 .
@@ -800,6 +857,7 @@
 77 ne
 77 tio
 77 jje
+
 78 Hola
 78 uka
 78 iymali
@@ -810,17 +868,19 @@
 78 shula
 78 .
 78 .
+
 79 Jeje
-79 ,
+79 ,,
 79 gracias
 79 !
 79 Amiga
-79 .
+79 ..
 79 eku
 79 chiere
 79 muy
 79 linda
-79 .
+79 ..
+
 80 con
 80 el
 80 apoyo
@@ -830,28 +890,34 @@
 80 anfitriones
 80 Tatuutsi
 80 Maxakwaxí
+
 81 Pampariyutsi
-81 .
+81 ....
 81 Saludos
-81 .
+81 ...
+
 82 Felipe
 82 de
 82 la
 82 Cruz
-82 (neteukari)
-82 ,
+82 (
+82 neteukari
+82 ),
 82 Yesenia
 82 Carrillo
-82 (nekurí)
-82 .
+82 (
+82 nekurí
+82 ).
+
 83 Es
 83 en
 83 la
 83 zitacua
 83 verdad
 83 Tutu
+
 84 Pampa
-84 .
+84 ...
 84 Aixe
 84 yeme
 84 .
@@ -866,9 +932,11 @@
 84 se
 84 puede
 84 ?
+
 85 es
 85 un
 85 Haramara
+
 86 los
 86 coordinadores
 86 del
@@ -879,19 +947,22 @@
 86 Tuutú
 86 +imari
 86 .
+
 87 Faltó
 87 el
 87 Muwieri
-87 .
+87 ....
 87 bueno
 87 creó
 87 .
+
 88 ¿
 88 HAS
 88 ESCUCHADO
 88 DEL
 88 MARA'AKAME
 88 ?
+
 89 Ante
 89 el
 89 triunfo
@@ -919,6 +990,7 @@
 89 y
 89 Bolaños
 89 ,
+
 90 Tam+
 90 ,
 90 m+k+tat+
@@ -928,16 +1000,19 @@
 90 así
 90 es
 90 Nery
-90 .
+90 ...
+
 91 Saludos
 91 ne
 91 t+karima
 91 .
+
 92 Ke
 92 Aku
 92 Saludos
 92 amigos
 92 Wixarika
+
 93 hiii
 93 ne
 93 cuñado
@@ -947,6 +1022,7 @@
 93 ;
 93 )
 93 waniu
+
 94 No
 94 le
 94 des
@@ -961,6 +1037,7 @@
 94 sin
 94 compasión
 94 .
+
 95 nawa
 95 te
 95 ieka
@@ -981,10 +1058,12 @@
 95 meu
 95 yah+akai
 95 es
-95 .
+95 ....
 95 :
 95 P
-95 😂😂🤣
+95 😂
+95 😂
+95 🤣
 95 como
 95 va
 95 la
@@ -996,33 +1075,38 @@
 95 vaso
 95 de
 95 nawa
-95 .
-95 😂😂
+95 ....
+95 😂
+95 😂
+
 96 Es
 96 neta
-96 .
+96 ....
 96 tu
 96 tomando
 96 nawa
-96 .
+96 ...
 96 kien
 96 te
 96 viera
 96 carnala
+
 97 si
 97 les
 97 gusta
-97 .
+97 ...
 97 y
 97 con
 97 sentimiento
 97 ne
 97 iwama
-97 .
+97 ...
+
 98 Desde
 98 esa
 98 vez
 98 yapetitemaik+
+
 99 Jijiji
 99 h+
 99 como
@@ -1031,11 +1115,13 @@
 99 hamika
 99 !
 99 Jaja
+
 100 Así
 100 es
-100 .
+100 ..
 100 kema
 100 a
+
 101 Y
 101 que
 101 nos
@@ -1043,12 +1129,16 @@
 101 la
 101 lluvia
 101 wa'at+
+
 102 karik+
-102 😂😂😇
+102 😂
+102 😂
+102 😇
 102 .
 102 Wistiane
 102 tu
 102 Collar
+
 103 Hu
 103 wa'at+
 103 pronto
@@ -1059,10 +1149,13 @@
 103 seguroImprovisando
 103 !
 103 !
+
 104 #Tam+Katiy+we
+
 105 ok
 105 ,
 105 kuta
+
 106 Aixi
 106 no
 106 los
@@ -1071,17 +1164,20 @@
 106 llevar
 106 la
 106 lluvia
-107 .
+
+107 ...
 107 hu
 107 tam+
 107 que
 107 ahi
 107 que
 107 hacer
-107 .
+107 ...
+
 108 kewatari
 108 ne
 108 jugo
+
 109 Kepai
 109 ts+
 109 ne
@@ -1092,39 +1188,47 @@
 109 mieme
 109 casi
 109 jeje
+
 110 Nooooooo
 110 kename
 110 rekainie
 110 jajaja
+
 111 Villa
 111 kuta
 111 heiwa
+
 112 Simón
 112 ne
 112 kema
+
 113 Así
 113 es
 113 primo
 113 Puro
 113 perron
 113 Aku
+
 114 Micheladas
 114 keri
 114 ne
 114 peu
 114 im+k+
+
 115 pero
 115 me
 115 queda
 115 algo
 115 lejos
 115 aku
+
 116 uuuyy
 116 es
 116 que
 116 ne
 116 kanetaunie
 116 jeje
+
 117 Mejor
 117 nos
 117 lo
@@ -1134,6 +1238,7 @@
 117 sábado
 117 aku
 117 amiga
+
 118 Hola
 118 .
 118 .
@@ -1142,6 +1247,7 @@
 118 .
 118 .
 118 Uka
+
 119 Te
 119 amo
 119 mi
@@ -1163,13 +1269,14 @@
 119 comer
 119 al
 119 centro
-119 .
+119 ...
 119 no
 119 te
 119 agüites
 119 .
 119 nemetsinaki'erie
 119 .
+
 120 Ke
 120 aku
 120 ne
@@ -1178,51 +1285,58 @@
 120 Evansville
 120 Indiana
 120 .
+
 121 Je
 121 ne
 121 primos
 121 muy
 121 shulos
-121 .
+121 ..
 121 Q
 121 estén
 121 bien
-121 .
+121 ...
+
 122 Viento
 122 Wixárika
 122 -
 122 'Ek+
 122 tsipe
 122 ane
+
 123 Saludos
 123 ne
 123 kema
+
 124 k
 124 tsu
 124 maineni
 124 ne
 124 primo
 124 charli
+
 125 Que
 125 guapa
 125 uká
+
 126 foto
 126 de
 126 waru
 126 aik+
 126 mieme
-126 .
+126 ..
 126 jaja
-126 .
+126 ..
 126 no
 126 te
 126 cresss
-126 ,
+126 ,,
 126 esta
 126 shido
 126 mi
 126 flor
-126 .
+126 ...
+
 127 Obviamente
 127 mi
 127 nombre
@@ -1231,11 +1345,12 @@
 127 es
 127 tuli
 127 wenima
-127 .
+127 ...
 127 y
 127 maricela
 127 en
 127 teiwarikt
+
 128 ne
 128 kuahauyeim+ki
 128 Chiné
@@ -1245,20 +1360,24 @@
 128 hamikama
 128 saludos
 128 .
+
 129 Que
 129 hermosa
 129 😍
 129 mi
 129 princesa
 129 uka
+
 130 ne
 130 uki
 130 guapo
+
 131 jejejej
 131 gracias
 131 au
 131 uka
-131 .
+131 ..
+
 132 Ola
 132 corazon
 132 ketal
@@ -1271,6 +1390,7 @@
 132 tekielo
 132 muchooooo
 132 va
+
 133 invita
 133 el
 133 amigo
@@ -1278,12 +1398,13 @@
 133 y
 133 modelo
 133 especial
-133 .
+133 ...
+
 134 Jaja
 134 hay
 134 tu
 134 crees
-134 ?
+134 ..??
 134 Uki
 134 gracias
 134 bby
@@ -1297,20 +1418,25 @@
 134 se
 134 te
 134 kiere
+
 135 Así
 135 es
 135 uka
+
 136 Guapa
 136 !
 136 Uka
 136 !
+
 137 Uka
 137 linda
+
 138 ay
 138 uka
 138 wapa
 138 cileninielet+
 138 kuta
+
 139 los
 139 apartes
 139 ,
@@ -1321,25 +1447,29 @@
 139 ek+
 139 tkm
 139 .
+
 140 K+tsi
 140 luaku
 140 bien
 140 peakananeti
-140 !
+140 !!
 140 Au
 140 !
+
 141 Skul
 141 .
 141 jajaja
 141 .
 141 uka
 141 nemetsinawani
+
 142 Animo
 142 pariente
 142 así
 142 nomas
 142 pa+
 142 xeik+
+
 143 Hitsukutarik+
 143 no
 143 se
@@ -1360,6 +1490,7 @@
 143 'Ariri
 143 peputawi
 143 .
+
 144 Hey
 144 uka
 144 nunutsi
@@ -1368,17 +1499,20 @@
 144 .
 144 Kauka
 144 .
+
 145 Saludos
 145 uka
 145 nunutsi
 145 temaikx
 145 nemetsinawani
 145 .
+
 146 Kien
 146 gusta
 146 de
 146 tsinarii
-146 ?
+146 .?
+
 147 ne
 147 kie
 147 ne
@@ -1387,6 +1521,7 @@
 147 metsi
 147 jaeriwa
 147 animo
+
 148 Kuxi
 148 ne
 148 kuata
@@ -1398,14 +1533,16 @@
 148 de
 148 la
 148 central
+
 149 Casi
 149 ne
 149 penetseat+may
-149 .
+149 ...
 149 Ne+
 149 h+k+
-149 .
+149 ...
 149 jeje
+
 150 En
 150 Tatei
 150 -
@@ -1413,6 +1550,7 @@
 150 ,
 150 teyupannie
 150 h+xie*
+
 151 excelente
 151 canta
 151 bien
@@ -1422,7 +1560,8 @@
 151 la
 151 uka
 151 saludos
-151 .
+151 ..
+
 152 Renaciendo
 152 Iyari
 152 mis
@@ -1435,11 +1574,13 @@
 152 xe
 152 te
 152 aitat+we
-152 .
+152 ..
+
 153 Muy
 153 bonita
 153 uka
 153 .
+
 154 Hola
 154 uka
 154 +mari
@@ -1451,6 +1592,7 @@
 154 ers
 154 amiga
 154 sal2
+
 155 Ya
 155 ts+
 155 xeik+a
@@ -1458,10 +1600,12 @@
 155 tu
 155 carnala
 155 chido
-155 .
+155 ...
+
 156 Kepaits+
 156 repollo
 156 waat+
+
 157 te
 157 acuerdas
 157 de
@@ -1471,12 +1615,14 @@
 157 Uli
 157 tsixeuanene
 157 utsi
+
 158 Mi
 158 kutsi
 158 saludos
 158 desde
 158 por
 158 aka
+
 159 Kien
 159 kiere
 159 hamuytsi
@@ -1485,7 +1631,7 @@
 159 en
 159 tukipa
 159 zoq
-159 .
+159 ..
 159 mmm
 159 me
 159 eche
@@ -1495,18 +1641,22 @@
 159 m
 159 sobra
 159 esto
+
 160 Grscis
-160 .
+160 !.
 160 metsu
+
 161 Donde
 161 estan
 161 los
 161 hamuitsi
-161 .
+161 ..
+
 162 D
 162 iku
 162 con
 162 tsatsaka
+
 163 Yo
 163 y
 163 mi
@@ -1519,24 +1669,28 @@
 163 alegre
 163 el
 163 ukichi
-163 .
+163 ...
+
 164 Uchiii
-164 <3
+164 <
+164 3
 164 helmoshaa
-164 .
+164 !!...
 164 #tucarita
-164 !
+164 !!
 164 jijiji
-164 <3
+164 <
+164 3
 164 .
-164 .
+164 ...
 164 Tkm
 164 chula
-164 .
+164 !!!......
 164 ;
 164 )
 164 .
-164 .
+164 ..
+
 165 Algo
 165 m
 165 dic
@@ -1551,9 +1705,11 @@
 165 ik+ri
 165 reyk+a
 165 nepe+k+mim+k+
+
 166 seguro
 166 nayka
 166 manyebie
+
 167 Arriba
 167 waxiet+
 167 así
@@ -1569,13 +1725,16 @@
 167 jamas
 167 abra
 167 otro
+
 168 Ek+ta
 168 tsiere
 168 guapa
 168 .
+
 169 Ay
 169 kepaikuta
-169 .
+169 ......
+
 170 Obviamente
 170 mi
 170 nombre
@@ -1584,11 +1743,12 @@
 170 es
 170 tuli
 170 wenima
-170 .
+170 ...
 170 y
 170 maricela
 170 en
 170 teiwarikt
+
 171 Les
 171 comparto
 171 un
@@ -1608,15 +1768,18 @@
 171 de
 171 fútbol
 171 Waikamete
+
 172 Gracias
 172 amigas
 172 hechiwa
 172 reik+
+
 173 Ke
 173 name
 173 ne
 173 amika
 173 jujuju
+
 174 papamama
 174 menetsiu
 174 ti
@@ -1634,6 +1797,7 @@
 174 hombre
 174 honrrado
 174 !
+
 175 Yo
 175 ne
 175 kwe
@@ -1648,6 +1812,7 @@
 175 este
 175 cuerpo
 175 !
+
 176 es
 176 ke
 176 tsineukati
@@ -1657,6 +1822,7 @@
 176 neu
 176 yu
 176 uayemanikey
+
 177 hurik+
 177 amiga
 177 Dulce
@@ -1672,7 +1838,8 @@
 177 jjj
 177 saludos
 177 hermosa
-177 .
+177 ...
+
 178 Me
 178 aku
 178 jeje
@@ -1686,7 +1853,7 @@
 178 dices
 178 jeje
 178 ntcs
-178 .
+178 ..
 178 Que
 178 Estes
 178 bien
@@ -1694,6 +1861,7 @@
 178 todo
 178 momento*
 178 **
+
 179 igual
 179 amiga
 179 hermosa
@@ -1703,12 +1871,13 @@
 179 quiere
 179 au
 179 !
+
 180 vamos
 180 por
 180 otra
 180 mas
 180 jjj
-180 .
+180 ...
 180 kentiy+weni
 180 tsiet+
 180 xewit
@@ -1721,14 +1890,16 @@
 180 ne
 180 marema
 180 !
+
 181 Jijijiji
 181 k
 181 paist+
-181 .
+181 ..
 181 jalisco
-181 .
+181 ..
 181 tanaka
-181 .
+181 ..
+
 182 aa
 182 auuu
 182 pero
@@ -1737,9 +1908,10 @@
 182 penka
 182 yuwe
 182 jajajajaja
-182 .
+182 ...
+
 183 gracias
-183 .
+183 !...
 183 heiwats+
 183 x+ka
 183 aix+
@@ -1750,6 +1922,7 @@
 183 niuy+neni
 183 !
 183 jjjj
+
 184 xei
 184 kiriwayarii
 184 xeik+a
@@ -1757,23 +1930,25 @@
 184 axix+
 184 ne
 184 hamik+
-184 .
+184 ...
 184 ent+t+
 184 y
 184 luego
 184 empapa
 184 xeik+a
 184 jajja
+
 185 No
 185 puedo
 185 leerlos
 185 k
 185 dicen
-185 .
+185 ..
 185 kuinie
 185 kutarik+
 185 tep+
 185 anene
+
 186 No
 186 ,
 186 son
@@ -1788,9 +1963,11 @@
 186 con
 186 mi
 186 takutsi
+
 187 Jajajajaj
 187 Aix+
 187 Ts+
+
 188 Si
 188 pero
 188 no
@@ -1798,14 +1975,15 @@
 188 digas
 188 me
 188 pegan
-188 .
+188 ...
 188 je
 188 saludos
 188 vamos
 188 a
 188 TATEI
 188 KIE
-188 .
+188 ..
+
 189 Wixarika
 189 Ts+
 189 Kwinie
@@ -1819,10 +1997,12 @@
 189 Xe
 189 Te
 189 Eerie
+
 190 Yemets+
 190 karik+
 190 wixarika
 190 .
+
 191 Ke
 191 aiguien
 191 me
@@ -1832,7 +2012,8 @@
 191 para
 191 las
 191 fotos
-191 .
+191 ..
+
 192 Meets+
 192 El
 192 Chalate
@@ -1847,6 +2028,7 @@
 192 Ne
 192 Me
 192 Maarie
+
 193 papamama
 193 menetsiu
 193 ti
@@ -1865,11 +2047,12 @@
 193 honrrado
 193 !
 193 ajuaaa
-193 .
+193 ...
 193 saludos
 193 ne
 193 marema
 193 !
+
 194 Es
 194 muy
 194 cierto
@@ -1884,6 +2067,7 @@
 194 ne
 194 kwe
 194 SSS
+
 195 Yo
 195 ne
 195 kwe
@@ -1898,6 +2082,7 @@
 195 este
 195 cuerpo
 195 !
+
 196 hu
 196 yuri
 196 tam+
@@ -1910,7 +2095,8 @@
 196 la
 196 jente
 196 .
-196 .
+196 ....
+
 197 nadie
 197 sabe
 197 loque
@@ -1929,11 +2115,13 @@
 197 verdad
 197 nekwe
 197 SSS
+
 198 m+
 198 tat+
 198 le
 198 penti
 198 y+weni
+
 199 Claro
 199 que
 199 se
@@ -1942,12 +2130,14 @@
 199 meri
 199 teka
 199 x+we
+
 200 heri
 200 ts+karik+
 200 jaja
-200 .
+200 ...
 200 saludos
 200 kupari
+
 201 akuxi
 201 san
 201 miguel
@@ -1956,7 +2146,7 @@
 201 neti
 201 iwamie
 201 kanariwiyak+
-201 .
+201 ...
 201 anake
 201 x+ka
 201 nera
@@ -1964,6 +2154,7 @@
 201 nepi
 201 naneni
 201 celular
+
 202 También
 202 aprovecho
 202 para
@@ -1973,15 +2164,19 @@
 202 especial
 202 a
 202 mi
-202 (Y+lama)
+202 (
+202 Y+lama
+202 )
 202 tkm
-202 .
+202 ...
+
 203 Netá
 203 Etsiwa
 203 Jeje
 203 buen
 203 provecho
-203 .
+203 .....
+
 204 M+tat+
 204 ya
 204 sabes
@@ -1992,6 +2187,7 @@
 204 Iyari
 204 !
 204 Saludos
+
 205 Aaa
 205 herí
 205 ts+
@@ -1999,24 +2195,28 @@
 205 dónde
 205 Jeje
 205 .
+
 206 HAREKUXI
 206 WA
 206 AZUCAR
+
 207 Jajaj
-207 .
+207 ...
 207 Pa+
 207 peka
 207 hait+
-207 .
+207 ...
 207 Nena
 207 ti
 207 hayani
 207 jaja
+
 208 ke
 208 kutA
-208 .
+208 ...
 208 nawa
 208 matsits+
+
 209 Tita
 209 ti
 209 h+k+
@@ -2025,18 +2225,21 @@
 209 xixieya
 209 wa
 209 at+
-209 .
+209 ...
+
 210 tam+
 210 echiwa
 210 timariyat+
 210 jjj
+
 211 yuri
 211 petiutaine
-211 .
+211 ...
 211 pekatiuka
 211 itawa
 211 prima
-211 .
+211 ...
+
 212 tam+
 212 ya
 212 te
@@ -2044,6 +2247,7 @@
 212 sabes
 212 m+pa+
 212 xe+k+a
+
 213 Hume
 213 ne
 213 primo
@@ -2055,6 +2259,7 @@
 213 que
 213 por
 213 facebook
+
 214 Chiteu
 214 ti
 214 y+ni
@@ -2064,12 +2269,14 @@
 214 ti
 214 tekiya
 214 jajaj
+
 215 Jaja
 215 ek+
 215 luego
 215 temas
 215 inie
 215 prima
+
 216 Tam+
 216 pa+ts+
 216 x+a
@@ -2077,9 +2284,10 @@
 216 ane
 216 ne
 216 iwa
-216 .
+216 ...
 216 Igual
 216 Saludos
+
 217 Hume
 217 !
 217 Ay
@@ -2092,11 +2300,13 @@
 217 traer
 217 más
 217 !
+
 218 primo
 218 como
 218 estilo
-218 .
+218 ...
 218 tem+rikita
+
 219 Hume
 219 !
 219 Ay
@@ -2109,19 +2319,22 @@
 219 traer
 219 más
 219 !
+
 220 Hu
 220 o
 220 waik+
-220 .
+220 !...
 220 Like
 220 y
 220 comenten
+
 221 Hu
 221 wa
 221 at+
 221 amiga
+
 222 Ajaa
-222 .
+222 ...
 222 Kari
 222 ayumieme
 222 peuka
@@ -2133,17 +2346,20 @@
 222 SSS
 222 !
 222 jej
-222 .
+222 ...
 222 Saludos
+
 223 Tuaxarie
 223 umemukae
 223 mi
 223 Rancho
 223 saludos
 223 primo
+
 224 Akume
 224 neiwa
 224 saludo
+
 225 Viva
 225 wixarika
 225 y
@@ -2151,8 +2367,10 @@
 225 -
 225 kie
 225 saludos
+
 226 puro
 226 tateikie
+
 227 tu
 227 igual
 227 ne
@@ -2166,24 +2384,27 @@
 227 estes
 227 bien
 227 .
+
 228 Ne
 228 siempre
 228 jjj
 228 ne
 228 tiu
 228 itaiki
+
 229 Ne
 229 neumikwa
 229 pinixi
 229 para
 229 la
 229 cruda
-229 .
+229 ..
 229 k
 229 es
 229 bueno
-229 ,
+229 ,,
 229 jjj
+
 230 Apoco
 230 neta
 230 pa+neti
@@ -2191,43 +2412,51 @@
 230 kename
 230 matsi
 230 tiutakwine
+
 231 Saludazos
 231 al
 231 z+we
+
 232 Mi
 232 abuelo
 232 zuwe
+
 233 Si
 233 es
 233 cierto
-233 .
+233 ...
 233 yo
 233 bien
 233 tsankuxixi
-233 .
+233 ..
 233 jjj
+
 234 El
 234 yawi
 234 emplumado
+
 235 Neupatsiene
 235 kiero
 235 un
 235 tenatsi
+
 236 No
 236 kiere
 236 ser
 236 mi
 236 tenatsi
 236 ek+
+
 237 la
 237 ,
 237 SSS
 237 ,
 237 tam+
-237 ,
+237 ,,
 237 ta
-237 ,
+237 ,,,
 237 disponible
+
 238 A
 238 NO
 238 AY
@@ -2235,6 +2464,7 @@
 238 .
 238 Puro
 238 capuchino
+
 239 Tsi
 239 ne
 239 karentiweke
@@ -2247,54 +2477,63 @@
 239 chori
 239 de
 239 tateikie
+
 240 tam+
 240 a
 240 ver
 240 tanguitas
 240 jjj
+
 241 Es
 241 en
 241 h+naripa
 241 jjj
+
 242 del
 242 equipo
 242 matarit+pa
+
 243 Tsinekareuyutemawie
-243 ,
+243 ,,
 243 k
 243 pai
 243 se
 243 acerca
 243 mi
 243 vacaciones
-243 ,
+243 ,,,
 243 ne
 243 metikuni
 243 xeik+a
-243 ,
+243 ,,
 243 jjj
 243 aku
+
 244 Ne
 244 uxipiet+
-244 ,
+244 ,,
 244 en
 244 cerro
 244 del
 244 mozco
 244 jjj
+
 245 Somos
 245 campeones
 245 kapuratsixi
+
 246 Vamonos
 246 al
 246 centro
-246 .
+246 ...
 246 teutekwewayu
-246 ,
+246 ,,,
 246 heiwat+
 246 tetemikieni
+
 247 ekatsie
 247 luego
+
 248 Hombre
 248 ,
 248 trabajador
@@ -2302,38 +2541,44 @@
 248 Pauka
 248 ke
 248 nepanukumakix+
-248 .
+248 ..
 248 uki
 248 tam+
+
 249 Simon
 249 ,
 249 tamatsika
+
 250 Ufff
 250 Tsiukatiux+Ka
-250 .
+250 ...
 250 k
 250 wari
 250 amanayeyeu
+
 251 Ne
 251 luego
 251 tsepa
-251 .
+251 ..
+
 252 au
 252 nawa
 252 ne
 252 peta
 252 wauni
-252 .
+252 ..
 252 un
 252 20
 252 litro
 252 para
 252 ustedes
 252 jj
+
 253 Amanayeyeu
 253 que
 253 es
-253 ?
+253 ..???
+
 254 amanayeyeu
 254 tepanu
 254 ieni
@@ -2341,15 +2586,18 @@
 254 wa
 254 hamat+a
 254 jjjj
+
 255 X
 255 fin
-255 .
+255 ..
 255 en
 255 yetapa
 255 .
+
 256 Hein+ni
 256 xeya
 256 machin
+
 257 A
 257 la
 257 fiesta
@@ -2358,37 +2606,42 @@
 257 a
 257 echar
 257 teguino
+
 258 Pura
 258 caguama
 258 y
 258 ukari
-258 .
+258 ..
 258 neu
 258 Wa
 258 hein+ni
-258 .
+258 ..
 258 carnal
+
 259 O
 259 ne
 259 kie
+
 260 A
 260 ,
 260 donde
 260 me
 260 voy
-260 .
+260 ...
 260 en
 260 guadalajara
 260 o
 260 Aguascalientes
-260 .
+260 ..
 260 Haukits+
+
 261 Aver
 261 k
 261 ne
 261 ti
 261 hein+ni
-261 .
+261 ..
+
 262 A
 262 la
 262 fiesta
@@ -2397,81 +2650,90 @@
 262 a
 262 echar
 262 teguino
+
 263 Pura
 263 caguama
 263 y
 263 ukari
-263 .
+263 ..
 263 neu
 263 Wa
 263 hein+ni
-263 .
+263 ..
 263 carnal
+
 264 Ya
 264 vámonos
 264 a
 264 tateikie
-264 .
+264 ...
 264 pa
 264 hurari
-264 .
+264 ..
 264 ta
 264 tukaritsie
-264 .
+264 ....
 264 día
 264 del
 264 niño
-264 .
+264 ....
 264 tteute
 264 kwewayu
-264 .
+264 ..
 264 jjj
+
 265 A
 265 están
 265 mis
 265 chalanes
-265 .
+265 ....
 265 tsimanixi
 265 teukarimama
+
 266 Apena
 266 hamuitsi
 266 n
 266 me
 266 kukwewax+tsie
 266 mieme
-266 .
+266 ...
+
 267 Ne
 267 yu
 267 +kit+@net+
-267 .
+267 ....
+
 268 Restauran
 268 chino
 268 .
-268 .
+268 ..
 268 teuwaretuani
 268 .
-268 .
+268 ..
 268 jajajaj
+
 269 A
 269 trabajar
 269 se
 269 ha
 269 dicho
-269 .
+269 ..
 269 jjj
 269 ne
 269 y+
 269 +raxiet+
+
 270 No
 270 tengo
 270 sueño
-270 .
+270 ...
 270 Ke
-270 .
+270 ..
 270 kuta
-270 .
+270 ....
+
 271 Heiwat+
-271 .
+271 ..
 271 naye
 271 eriet+yani
 271 temaik+yari
@@ -2479,7 +2741,8 @@
 271 artesano
 271 t+
 271 kaitsie
-271 .
+271 .....
+
 272 SSS
 272 NE
 272 TA
@@ -2490,11 +2753,13 @@
 272 .
 272 .
 272 .
+
 273 tatata
 273 +kiyari
 273 neuta
 273 wewi
 273 jj
+
 274 kepaits+
 274 yukie
 274 ha
@@ -2505,28 +2770,31 @@
 274 !
 274 animo
 274 primo
+
 275 iteuki
 275 peremi
-275 ?
+275 ???
 275 o
 275 no
 275 mas
 275 hiciste
 275 trampa
+
 276 Tsiuka
 276 ti
 276 yu
 276 heiwerie
-276 .
+276 ..
 276 kiere
 276 cagahuamas
-276 .
+276 ...
 276 se
 276 kiere
 276 en
 276 borrachar
-276 .
+276 ...
 276 jjjj
+
 277 Teteikie
 277 kuuta
 277 en
@@ -2535,7 +2803,7 @@
 277 .
 277 Al
 277 tejuino
-277 .
+277 ...
 277 un
 277 20
 277 litro
@@ -2544,10 +2812,12 @@
 277 .
 277 pen
 277 kaukama
+
 278 Kekuta
 278 la
 278 familia
 278 riekia
+
 279 Esk
 279 waniu
 279 a
@@ -2556,21 +2826,24 @@
 279 inake
 279 ,
 279 erie
-279 .
+279 ..
 279 jjjj
+
 280 Ta
 280 patrón
 280 xeik+@
 280 iet+
-280 .
+280 ...
+
 281 Con
 281 peña
-281 .
+281 ...
 281 tam+
+
 282 Los
 282 grandes
 282 jefes
-282 .
+282 ...
 282 del
 282 atole
 282 aku
@@ -2578,71 +2851,76 @@
 282 wavi
 282 ne
 282 kueee
+
 283 Tam+
-283 .
+283 ..
 283 penkaukama
-283 .
+283 ..
 283 ahí
 283 están
 283 los
 283 ulis
 283 ,
 283 jjj
+
 284 Ya
 284 ne
 284 reuk@weiyat+
-284 .
+284 ,.
 284 xeik+@
 284 chin
+
 285 K
 285 ane
 285 peiye
 285 h+Wa
-285 .
+285 ....
 285 nomas
 285 xewit+
 285 x
 285 peuye
 285 wetse
+
 286 neu
 286 xe
 286 inie
 286 yunaime
-286 .
+286 ....
 286 kwit+
 286 teutekwani
 286 al
 286 centro
-286 .
+286 .....
 286 hik+
 286 mexi
 286 .
-286 .
+286 ..
 286 yurikake
 286 .
-286 .
+286 ..
 286 xekwe
 286 ikwai
 286 xetikawewirieni
-286 .
+286 .....
 286 ke
 286 ane
 286 me
 286 puene
-286 .
+286 ..
 286 tsiere
-286 .
+286 ..
 286 k
 286 ane
 286 no
 286 puede
-286 ,
+286 ,,,
 286 pa+xeik+a
-286 .
+286 ....
 286 alas
 286 2
-286 .
+286 ..
 286 pm
+
 287 yurikake
 287 maria
 287 tiwewiyaya
@@ -2657,22 +2935,25 @@
 287 chinga
 287 primo
 287 jj
+
 288 Ahí
 288 con
 288 kwitapi
-288 .
+288 ..
 288 un
+
 289 A
 289 trabajar
 289 se
 289 ha
 289 dicho
-289 .
+289 ...
 289 ne
 289 y+
 289 +raxiet+
 289 ne
-289 .
+289 ....
+
 290 llevate
 290 esa
 290 mquina
@@ -2689,11 +2970,13 @@
 290 a
 290 inaripa
 290 jjj
+
 291 Ese
 291 mi
 291 compa
 291 kap+
 291 ?
+
 292 pare
 292 a
 292 wa+kama
@@ -2701,6 +2984,7 @@
 292 kem+neni
 292 primo
 292 !
+
 293 teukate
 293 axe
 293 waniu
@@ -2710,9 +2994,11 @@
 293 eriwa
 293 primo
 293 jjj
+
 294 saludos
 294 desde
 294 mekitsata
+
 295 k+m+ri
 295 teu
 295 han+iyu
@@ -2724,86 +3010,92 @@
 295 kwewat+
 295 primo
 295 jjjj
+
 296 Simón
-296 .
+296 ...
 296 Me
 296 yuku
 296 hayewax+
-296 .
+296 ..
 296 en
 296 navidad
-296 .
+296 ...
+
 297 K
 297 bueno
-297 .
+297 ..
 297 santa
-297 .
+297 .....
 297 me
 297 trajo
 297 .
 297 .
 297 mucho
 297 trabajo
-297 .
+297 ...
 297 X
 297 k
 297 hoy
 297 trabajo
-297 .
+297 ...
 297 hasta
 297 el
-297 .
+297 ..
 297 lunes
-297 .
+297 .....
 297 PA+CH+CH+
+297 .....
 297 .
-297 .
-297 .
+297 ....
 297 yeme
 297 kuta
-297 .
+297 ...
 297 k€
 297 wats+ri
 297 temanu
 297 ienikekai
-297 .
+297 ..
 297 ne
 297 hamikuma
-297 .
+297 ...
 297 chiepachuli
-297 .
+297 ...
+
 298 Ojale
 298 sea
 298 así
-298 .
+298 ..
 298 muchas
 298 gracia
-298 .
+298 ...
 298 fwluz
 298 navidad
-298 .
+298 ..
 298 Aix+
 298 peureu
 298 erieka
-298 .
+298 ....
+
 299 Xeneyuku
 299 ha
 299 arit+waniri
-299 .
+299 ..
 299 te
 299 kateni
 299 kwewayunu
-299 .
+299 ...
 299 madre
 299 tsixi
 299 memakatei
 299 tsie
-299 .
+299 ......
+
 300 ne
 300 wats+
 300 yo
 300 me
 300 apunto
+
 301 Yo
 301 también
 301 estoy
@@ -2816,35 +3108,39 @@
 301 +kari
 301 me
 301 prestan
+
 302 si
-302 .
+302 ...
 302 temetsan
 302 kweni
 302 teme
 302 tsita
 302 eimame
 302 jajaj
+
 303 A
 303 ikari
 303 pera
 303 hurie
 303 ri
-303 .
+303 ..
+
 304 Esk
 304 kauka
 304 ne
 304 na
 304 kuwiyari
-304 .
+304 ...
 304 aimieme
 304 ne
 304 katiku
 304 eriwa
+
 305 K+rinku
 305 xapieya
-305 .
+305 ..
 305 jjj
-305 .
+305 ..
 305 m
 305 acorde
 305 k
@@ -2854,27 +3150,30 @@
 305 se
 305 llama
 305 jjjj
+
 306 Donal
 306 trunp
-306 .
+306 ..
 306 muwa
 306 parexei
 306 jajajaja
+
 307 Ne
 307 ti
 307 kuyet+
-307 .
+307 ....
 307 para+rik+
-307 .
+307 ...
 307 k
 307 para+
 307 ti
 307 tewa
-307 .
+307 ...
+
 308 Tam+
-308 .
+308 ..
 308 penkaukama
-308 .
+308 ...
 308 estamos
 308 hablando
 308 de
@@ -2882,67 +3181,75 @@
 308 Jacinta
 308 d
 308 chaki
-308 .
+308 ..
 308 jjjj
+
 309 Haesta
 309 la
 309 cosa
-309 .
+309 ..
 309 k
 309 dijo
-309 .
+309 ..
 309 pura
 309 calidad
-309 .
+309 ...
 309 nekaniku
 309 eiririeni
 309 kekait+ni
-309 .
+309 ....
 309 jjj
+
 310 K+m+t+kari
 310 tataikie
-310 .
+310 ...
 310 ala
 310 fiesta
-310 .
+310 ....
+
 311 Tam+
 311 n
 311 tewa
-311 .
+311 ...
 311 penkaikama
-311 .
+311 ..
 311 jjj
+
 312 puro
 312 matarit+pa
 312 primo
 312 !
+
 313 Hay
 313 .
 313 .
 313 tita
 313 ke
 313 hepa+
-313 .
+313 ...
 313 aaa
+
 314 K
 314 kuta
-314 .
+314 ..
 314 neu
 314 kwau
 314 im+k+
-314 .
+314 ....
 314 hay
 314 k
 314 arrankar
 314 dicen
 314 los
 314 mexicanos
-314 .
+314 ....
+
 315 K+m+rí
-315 .
+315 ...
 315 al
 315 baile
-315 .
+315 ...
+
 316 K
 316 ane
 316 peuywim+k+
@@ -2964,17 +3271,20 @@
 316 siga
 316 d
 316 cruda
+
 317 salud
 317 neiwa
+
 318 Los
 318 kimenes
 318 .
 318 Xeik+@
+
 319 Kekuta
 319 aix+
 319 neukwaranuye
 319 m+m+k+
-319 .
+319 ....
 319 es
 319 k
 319 es
@@ -2982,72 +3292,80 @@
 319 la
 319 emoción
 319 .
-319 .
+319 ...
 319 jeje
+
 320 ne
 320 paye
 320 eriet+
 320 yeika
-320 .
+320 ..
 320 k
 320 kuta
 320 aix+
 320 nanu
 320 ieni
-320 .
+320 ...
 320 chingao
+
 321 Pare
 321 wikweiyarie
 321 primo
 321 !
+
 322 Ayta
-322 .
+322 ...
 322 la
 322 pinta
-322 .
+322 ....
 322 aku
+
 323 Jajaja
 323 alli
 323 en
 323 tu
 323 canton
-323 .
+323 ..
 323 Puro
 323 aikutsita
 323 tam+
-323 .
+323 ...
 323 Ne
 323 patron
+
 324 Echiwa
 324 te
 324 pan
 324 chulewa
-324 .
+324 ....
 324 el
 324 k
 324 kiere
-324 .
+324 ..
+
 325 K
 325 ante
 325 pei
 325 te
 325 h+wa
-325 .
+325 ....
 325 s
 325 puede
-325 .
+325 ..
 325 cuetiado
-325 .
+325 ..
 325 jejeje
+
 326 Y@k+t+t+
 326 primo
 326 !
 326 Petiu
 326 ta
 326 kwewiyarieni
-326 .
+326 ...
+
 327 Tsiepa
-327 .
+327 ...
 327 alkavo
 327 .
 327 .
@@ -3062,84 +3380,95 @@
 327 .
 327 para
 327 vender
-327 .
+327 ..
 327 Para
 327 recuperar
-327 .
+327 ...
 327 jajaja
+
 328 Trabajando
 328 k
 328 namets+
+
 329 para
 329 andar
 329 d
 329 jefes
-329 .
+329 ..
 329 d
 329 ikwaik+$
 329 jajaj
+
 330 Así
 330 es
 330 la
 330 cuichi
 330 mauch+
 330 la+ye
+
 331 M+k+t@t+
 331 yo
 331 soy
 331 el
 331 bueno
-331 .
+331 ..
 331 K
 331 name
+
 332 Kekuta
-332 .
+332 ...
 332 pareces
 332 más
 332 jefe
 332 que
 332 tu
 332 jefe
-332 .
+332 .....
 332 jajajaja
+
 333 WITSIURIE
-333 .
+333 ..
 333 TEk+@
-333 .
+333 ...
 333 iendo
 333 a
 333 los
 333 mangos
 333 .
+
 334 Blanco
 334 d
 334 +wi
+
 335 jeje
-335 .
+335 ..
 335 ese
 335 k+kame
 335 y
 335 el
 335 bebe
-335 .
+335 ..
 335 saludasos
 335 puro
 335 aikutsita
-335 .
+335 ...
 335 jeje
+
 336 Kakananet+
 336 ts+
 336 waniu
 336 k
 336 name
-336 .
+336 ..
 336 ese
 336 zombi
+
 337 puro
 337 barrio
 337 aikutsita
-337 .
+337 ...
 337 tam+
+
 338 es
 338 d
 338 san
@@ -3148,10 +3477,12 @@
 338 como
 338 la
 338 vez
+
 339 equipo
 339 ,
 339 tsimanixi
 339 jajajja
+
 340 GRACIAS
 340 por
 340 su
@@ -3164,25 +3495,27 @@
 340 Educación
 340 Intercultural
 340 Wixarika
-340 !
+340 !!!
 340 Familia
 340 COBAEJ
-340 !
+340 !!!
 340 Pam+pariyutsi
 340 Waut+a
 340 Kuruxi
 340 Manuwe
 340 mat+a
-340 !
+340 !!!
+
 341 saludos
 341 mucha
 341 suerte
 341 uka
-341 ,
+341 ,,,
 341 esta
 341 muy
 341 guapa
 341 animo
+
 342 Ne
 342 talu
 342 muy
@@ -3198,6 +3531,7 @@
 342 lo
 342 mejor
 342 .
+
 343 kekuta
 343 !
 343 ta
@@ -3208,12 +3542,13 @@
 343 jjj
 343 saludos
 343 amigo
+
 344 Pam+pariyutsi
 344 Waut+a
 344 Kuruxi
 344 Manuwe
 344 mat+a
-344 !
+344 !!!
 344 De
 344 regreso
 344 con
@@ -3233,24 +3568,26 @@
 344 de
 344 la
 344 Educación
-344 !
+344 !!!
 344 Un
 344 gran
 344 VIERNES
-344 !
+344 !!!
 344 FELIZ
 344 NOCHE
-344 !
+344 !!!
 344 #CONABIO
 344 Pam+pariyutsi
 344 Waut+a
 344 Kuruxi
 344 Manuwe
 344 mat+a
-344 !
+344 !!!
+
 345 Puro
 345 chivas
 345 wa'at+
+
 346 igualmente
 346 Saludos
 346 ne
@@ -3260,6 +3597,7 @@
 346 .
 346 .
 346 jeje
+
 347 Ai
 347 Gracias
 347 sí
@@ -3313,12 +3651,14 @@
 347 Aku
 347 yusewi
 347 uka
+
 348 Karik+
 348 waat+u
 348 me
 348 neamika
 348 SSS
 348 saludos
+
 349 Sui
 349 wixarika
 349 arriba
@@ -3328,6 +3668,7 @@
 349 neiwa
 349 puro
 349 tateikie
+
 350 Simplemente
 350 son
 350 mi
@@ -3336,6 +3677,7 @@
 350 yuawi
 350 y
 350 Uxa
+
 351 Así
 351 fue
 351 como
@@ -3344,8 +3686,9 @@
 351 dando
 351 las
 351 cosas
-351 !
+351 !!
 351 tam+Katiy+we
+
 352 Ya
 352 ka
 352 tiy+weka
@@ -3355,35 +3698,42 @@
 352 aneka
 352 primazo
 352 #Casualidades
+
 353 My
 353 boy
 353 'uxa
+
 354 Es
 354 mi
 354 niño
 354 se
 354 llama
 354 'uxa
-354 .
+354 ...
+
 355 Ne
 355 cuñis
 355 mik+
 355 jeri
+
 356 Saludos
 356 sobrina
 356 hasta
 356 waut+a
 356 !
-356 !
+356 !!
+
 357 Okay
 357 !
 357 #Tam+Katiy+we
 357 .
-357 .
+357 ..
+
 358 Improvisando
 358 !
 358 !
 358 #Tam+Katiy+we
+
 359 Y
 359 ahora
 359 que
@@ -3392,16 +3742,20 @@
 359 ne
 359 iwa
 359 .
+
 360 Kewa
 360 paut+a
 360 kamion
 360 ,
+
 361 Tamü
 361 tsükipa
+
 362 Hhaaaa
 362 temaykt
 362 saludos
 362 jeje
+
 363 Heeli
 363 waniu
 363 kapeixei
@@ -3409,10 +3763,12 @@
 363 igualudo
 363 saludo
 363 .
+
 364 Eli
 364 wani
 364 el
 364 uki
+
 365 Neixei
 365 el
 365 uki
@@ -3422,32 +3778,40 @@
 365 el
 365 teemai
 365 jeje
+
 366 M+k+tat+
 366 chencho
 366 primo
+
 367 Tam+
 367 hay
 367 que
 367 ir
+
 368 andale
 368 vamos
 368 a
 368 tomar
 368 nawa
 368 jeje
+
 369 JU
 369 JUI
-369 .
+369 ...
 369 Yak+
+
 370 Kuaay
 370 ne
 370 jamikaaa
+
 371 Ek+ta
 371 tsiere
 371 guapa
 371 .
+
 372 Yasta
 372 aixutsu
+
 373 Ayr+
 373 yeme
 373 ne
@@ -3456,6 +3820,7 @@
 373 saluda
 373 su
 373 amigaso
+
 374 Orgullosa
 374 de
 374 los
@@ -3463,11 +3828,13 @@
 374 avances
 374 .
 374 Waikamete
+
 375 Ke
 375 name
 375 ne
 375 amika
 375 jujuju
+
 376 Oo
 376 k
 376 bien
@@ -3475,13 +3842,14 @@
 376 vez
 376 primo
 376 .
-376 .
+376 ...
 376 Jeje
 376 tkm
 376 au
 376 neplimo
 376 .
-376 .
+376 ..
+
 377 Quien
 377 esta
 377 listo
@@ -3492,6 +3860,7 @@
 377 neiyu
 377 ,
 377 aku
+
 378 lo
 378 se
 378 k
@@ -3502,16 +3871,19 @@
 378 ek+
 378 ne
 378 plimo
+
 379 De
 379 ne
 379 me
 379 aku
+
 380 wooo
 380 k
 380 bonito
 380 lugar
 380 me
 380 aku
+
 381 Ek+
 381 mat+a
 381 chi'a
@@ -3519,14 +3891,17 @@
 381 au
 381 .
 381 #dela_rosa
+
 382 kewatari
 382 ne
 382 jugo
+
 383 Kepai
 383 ne
 383 ka
 383 atsi
 383 xeiyawe
+
 384 a
 384 h+
 384 wa'at+
@@ -3534,11 +3909,14 @@
 384 kwinimie
 384 pereu
 384 yewautse
-384 😂😂😇
+384 😂
+384 😂
+384 😇
 384 yak+
 384 ne
 384 paine
 384 au
+
 385 USTEDES
 385 BIEN
 385 HERMOSAS
@@ -3548,13 +3926,16 @@
 385 )
 385 ;
 385 )
+
 386 Jeje
 386 karik+
 386 me
+
 387 h+
 387 kepai
 387 ek+
 387 😂
+
 388 Kepai
 388 ts+
 388 ne
@@ -3565,6 +3946,7 @@
 388 mieme
 388 casi
 388 jeje
+
 389 a+m+
 389 yak+
 389 pekaraine
@@ -3578,6 +3960,7 @@
 389 😂
 389 ne
 389 putimarii
+
 390 Tam+
 390 aix+
 390 ts+
@@ -3585,6 +3968,7 @@
 390 ,
 390 ne
 390 hamika
+
 391 😎
 391 hawaik+
 391 kuta
@@ -3600,12 +3984,15 @@
 391 ne
 391 iwa
 391 😂
+
 392 Nooooooo
 392 kename
 392 rekainie
 392 jajaja
+
 393 Invita
 393 uki
+
 394 K
 394 te
 394 pasa
@@ -3613,22 +4000,28 @@
 394 ek+
 394 ne
 394 hamika
+
 395 kepaits+
+
 396 Tita
 396 tá
+
 397 yepehait+
 397 kepai
 397 ,
 397 tam+
 397 kaiwat+
+
 398 uka
 398 nena
+
 399 Jeje
 399 prima
 399 eta
 399 bonito
 399 etiketamela
 399 prima
+
 400 M+tat+ri
 400 a
 400 corona
@@ -3642,11 +4035,13 @@
 400 voy
 400 a
 400 ir
+
 401 No
 401 me
 401 Etiquetas
 401 te
 401 tsepari
+
 402 No
 402 te
 402 pongas
@@ -3654,16 +4049,23 @@
 402 amigo
 402 wuapo
 402 .
-402 😨😨😨🍺😨estas
+402 😨
+402 😨
+402 😨
+402 🍺
+402 😨
+402 estas
 402 lindo
 402 Aku
 402 ek+
 402 SSS
+
 403 Jeje
 403 aku
 403 puyuri
 403 jeje
 403 Salu2
+
 404 Mm
 404 !
 404 puyuri
@@ -3672,21 +4074,26 @@
 404 de
 404 ke
 404 ?
+
 405 Jeje
 405 d
 405 pepanutini
 405 jaja
+
 406 Kekuta
 406 pe
 406 it+arie
+
 407 de
 407 ke
 407 oke
 407 ?
 407 :
 407 /
+
 408 Chipe
 408 p+karakatuni
+
 409 Ah
 409 de
 409 casualidad
@@ -3697,14 +4104,20 @@
 409 ak
 409 oras
 409 son
-409 ?
-409 😃😂😂
+409 ..??
+409 😃😂
+409 😂
 409 #netefonotikuye
 409 .
-409 😂😂😂😂
+409 😂
+409 😂
+409 😂
+409 😂
+
 410 neta
 410 ne
 410 kema
+
 411 Siii
 411 ,
 411 así
@@ -3713,12 +4126,14 @@
 411 a
 411 dar
 411 ambiente
-411 .
+411 ..
 411 Compa
 411 lenuki
+
 412 Wuapo
 412 uk+
 412 saludos
+
 413 Esi
 413 pasa
 413 abeces
@@ -3733,43 +4148,51 @@
 413 Kiewa
 413 \n
 413 ena
+
 414 Te
 414 ExtraÑoooo
-414 .
+414 ...
 414 utsi
-414 .
+414 ...
 414 kepairy
+
 415 Petiuti
 415 ekwaxuri
 415 ?
 415 Petiuti
 415 hanui
-415 ?
+415 ??
 415 Jeje
 415 Muy
 415 linda
 415 como
 415 siempre
+
 416 neukatihuwawe
 416 jejeje
+
 417 Video
 417 oficial
 417 de
 417 Eres
 417 tu
-417 ('Ek+ts+
+417 (
+417 'Ek+ts+
 417 pe
-417 h+k+)
+417 h+k+
+417 )
 417 .
 417 .
 417 Pasion
 417 Huichol
-417 .
+417 ..
+
 418 en+tsi
 418 pe
 418 h+
 418 k+
 418 pues﻿
+
 419 me
 419 puede
 419 subir
@@ -3784,6 +4207,7 @@
 419 .
 419 atte
 419 SSS
+
 420 PASION
 420 HUICHOL
 420 'EK+TS+
@@ -3795,16 +4219,20 @@
 420 NE
 420 'I
 420 YARI
+
 421 El
 421 Nawa
+
 422 Cumbia
 422 Napapauny
 422 Huichol
 422 Musical
 422 2011
+
 423 Mañanitas
 423 eske
 423 neukamatekai
+
 424 Excelente
 424 cancion
 424 y
@@ -3812,15 +4240,17 @@
 424 .
 424 Pampadios
 424 !
+
 425 Cumbia
 425 Maka
 425 Jini
+
 426 Animo
 426 k+itsi
 426 ay
 426 la
 426 llevas
-426 .
+426 ...
 426 Tu
 426 puedes
 426 ya
@@ -3828,8 +4258,9 @@
 426 mejorando
 426 tu
 426 salud
-426 !
+426 !!
 426 ﻿
+
 427 ket++
 427 aix+
 427 katiux+ka
@@ -3902,6 +4333,7 @@
 427 unos
 427 chicles
 427 ,
+
 428 le
 428 dicen
 428 la
@@ -3914,11 +4346,16 @@
 428 au
 428 pa+
 428 i
-428 😁🤣🤣🤣😂😂😂😂😅
+428 😁🤣🤣🤣😂
+428 😂
+428 😂
+428 😂
+428 😅
 428 ando
 428 bien
 428 travieza
 428 😁🙃
+
 429 JAJAJA
 429 MATSITS+
 429 TARAKiii
@@ -3927,6 +4364,7 @@
 429 kER+KAXI
 429 ,
 429 AKU
+
 430 Así
 430 se
 430 escucha
@@ -3947,9 +4385,11 @@
 430 ;
 430 )
 430 #MuyAlegres
+
 431 Hakewa
 431 kutaa
 431 maryy
+
 432 Estoy
 432 tam+aburrio
 432 de
@@ -3962,6 +4402,7 @@
 432 cualker
 432 cosita
 432 meavisan
+
 433 Para
 433 un
 433 persona
@@ -3973,25 +4414,28 @@
 433 ne
 433 okis
 433 saludos
+
 434 Hombre
 434 ,
 434 trabajador
 434 ya
 434 ke
 434 nepanukumakix+
-434 .
+434 ..
 434 uki
 434 tam+
+
 435 y
 435 es
 435 cuando
 435 empiezo
 435 a
 435 extrañarte
-435 .
+435 ...
 435 tam+
 435 pauxeik+a
-435 .
+435 ...
+
 436 Cada
 436 momento
 436 es
@@ -4001,17 +4445,19 @@
 436 lado
 436 SIEMPRE
 436 TAM+
+
 437 Felicidades
-437 !
+437 !!!
 437 Ne'iwa
 437 Xitakame
-437 !
+437 !!!
 437 Pam+pariyutsi
 437 Waut+a
 437 Kuruxi
 437 Manuwe
 437 mat+a
-437 !
+437 !!!
+
 438 Sabe
 438 que
 438 esta
@@ -4024,13 +4470,14 @@
 438 excelente
 438 espacio
 438 educativo
-438 !
+438 !!!
 438 Pam+pariyutsi
 438 Waut+a
 438 Kuruxi
 438 Manuwe
 438 mat+a
-438 !
+438 !!!
+
 439 L@s
 439 invito
 439 a
@@ -4039,7 +4486,8 @@
 439 kename
 439 ts+
 439 au
-439 .
+439 ...
+
 440 Tame
 440 wanuka
 440 kename
@@ -4047,11 +4495,13 @@
 440 sabe
 440 kewa
 440 jeje
+
 441 Wuai
-441 .
+441 ....
 441 sabe
 441 kewa
 441 xenu
+
 442 Muy
 442 bien
 442 ustedes
@@ -4068,22 +4518,27 @@
 442 ay
 442 mucho
 442 karacuni
+
 443 Jajaja
 443 hu
 443 me
 443 ai
 443 muchos
 443 kayunis
+
 444 INVITEN
 444 TSEPA
 444 KEWA
 444 JEJE
+
 445 K+m+tsi
 445 aku
 445 SSS
+
 446 Saludos
 446 Ukari'i
-446 <3
+446 <
+446 3
 446 :
 446 )
 446 FELIZ
@@ -4091,6 +4546,7 @@
 446 DE
 446 LA
 446 MUJER
+
 447 Ukari
 447 ukitsi
 447 preparen
@@ -4123,6 +4579,7 @@
 447 bien
 447 venidos
 447 ,
+
 448 "
 448 Desde
 448 la
@@ -4130,8 +4587,10 @@
 448 wixárika
 448 nosotros
 448 ukari
-448 (las
-448 mujeres)
+448 (
+448 las
+448 mujeres
+448 )
 448 hemos
 448 sido
 448 representadas
@@ -4181,10 +4640,11 @@
 448 fertilidad
 448 y
 448 bienestar
-448 .
+448 ".
 448 -
 448 Xauryma
 448 .
+
 449 Así
 449 kmo
 449 las
@@ -4192,12 +4652,14 @@
 449 aku
 449 me
 449 Ukari
-449 .
+449 ...
+
 450 Hik+
 450 ta
 450 Tukaritsie
 450 UKARI
 450 !
+
 451 Es
 451 un
 451 HONOR
@@ -4235,10 +4697,12 @@
 451 Mujeres
 451 .
 451 #TUKARIMA
+
 452 ala
 452 tsi
 452 uka
 452 pekanetinake
+
 453 Saludos
 453 ukari
 453 hermosa
@@ -4247,6 +4711,7 @@
 453 tari
 453 ne
 453 iwama
+
 454 Hay
 454 que
 454 hacer
@@ -4254,16 +4719,17 @@
 454 de
 454 Voly
 454 .
-454 ,
+454 ..,
 454 aku
 454 ukari
 454 .
-454 ,
+454 .,
 454 ke
 454 xe
 454 hait+ka
 454 .
 454 .
+
 455 Va
 455 a
 455 ver
@@ -4275,6 +4741,7 @@
 455 equipo
 455 de
 455 Waut+a
+
 456 Xua
 456 ui
 456 ukari
@@ -4287,27 +4754,29 @@
 456 unos
 456 añitos
 456 .
-456 .
+456 ..
+
 457 Kuxi
 457 waika
 457 te
 457 mauye
 457 wetse
 457 .
-457 .
+457 ..
 457 #Awapatari
 457 Aku
 457 prima
 457 Placida
 457 mu
 457 mawe
+
 458 En
 458 las
 458 fiestas
 458 del
 458 tambor
 458 .
-458 .
+458 ..
 458 Es
 458 cuando
 458 nos
@@ -4321,6 +4790,7 @@
 458 de
 458 acuerdo
 458 sale
+
 459 pues
 459 a
 459 ir
@@ -4335,6 +4805,7 @@
 459 equipos
 459 'Ukari
 459 iwamarixi
+
 460 Aku
 460 ukari
 460 ,
@@ -4351,10 +4822,11 @@
 460 me
 460 temari
 460 .
+
 461 Q
 461 mala
 461 onda
-461 .
+461 ...
 461 C
 461 me
 461 perdio
@@ -4373,7 +4845,7 @@
 461 mensaje
 461 del
 461 face
-461 .
+461 ...
 461 para
 461 yo
 461 agregarlos
@@ -4384,6 +4856,7 @@
 461 au
 461 :
 461 )
+
 462 Hola
 462 guenos
 462 tardes
@@ -4411,19 +4884,21 @@
 462 wuixaritari
 462 ukari
 462 yunait+
+
 463 METZERI
 463 NE
 463 UKARI
-463 .
+463 ...
 463 LUNA
 463 DE
 463 MI
 463 VIDA
-463 .
+463 ...
 463 APRENDIENDO
 463 WIRRARIK
 463 :
 463 )
+
 464 Es
 464 coraje
 464 ,
@@ -4437,7 +4912,7 @@
 464 y
 464 salir
 464 adelante
-464 !
+464 !!!
 464 #DiaDeLaMujer
 464 TA
 464 TUKARITSIE
@@ -4452,13 +4927,14 @@
 464 'IYARI
 464 !
 464 I
-464 !
+464 !!!
+
 465 Aixia
 465 pepuraka'iyuniwani
 465 hik+
 465 a
 465 tukaritsie
-465 .
+465 ..
 465 Que
 465 la
 465 pases
@@ -4470,9 +4946,10 @@
 465 familia
 465 y
 465 amigos
-465 .
+465 ..
 465 Felicidades
-465 .
+465 ..
+
 466 Los
 466 compromisos
 466 terrenales
@@ -4499,10 +4976,10 @@
 466 .
 466 Nep+xe'inie
 466 'iwamarixi
-466 .
+466 ...
 466 K+m+ri
 466 nekie
-466 .
+466 ...
 466 Buruato
 466 rekutewakaku
 466 .
@@ -4512,6 +4989,7 @@
 466 .
 466 Tep+tekuxarike
 466 .
+
 467 Ne'iwama
 467 wixàritari
 467 nep+xe'inie
@@ -4522,11 +5000,12 @@
 467 'ik+
 467 convocatoria
 467 .
+
 468 KE'AKU
 468 YUNAIT+
 468 'IWAMARIXI
 468 XEMUYEHANE
-468 .
+468 ...
 468 Muy
 468 buenas
 468 tardes
@@ -4535,8 +5014,10 @@
 468 y
 468 amigas
 468 .
+
 469 Saludos
 469 iwamarixi
+
 470 Feliz
 470 Navidad
 470 "
@@ -4557,6 +5038,7 @@
 470 y
 470 alegría
 470 .
+
 471 Taller
 471 de
 471 artesania
@@ -4566,9 +5048,10 @@
 471 esperamos
 471 .
 471 ¡
-471 ¡
+471 ¡¡
 471 PAMPARIYUTSI
-471 ¡
+471 ¡¡¡¡
+
 472 Desayuno
 472 antes
 472 de
@@ -4577,6 +5060,7 @@
 472 #GuadalupeOcotán
 472 .
 472 Pampariyutsi
+
 473 a
 473 nuestros
 473 amigos
@@ -4593,6 +5077,7 @@
 473 Brasil
 473 kiekatari
 473 !
+
 474 PAMPARIYUTSI
 474 YUNAIT+
 474 .
@@ -4604,16 +5089,17 @@
 474 y
 474 colaboradores
 474 .
+
 475 Hola
 475 !
 475 Yuawi
 475 kewa
 475 pe'peyeika
-475 !
+475 !!!
 475 Saludos
-475 .
+475 ...
 475 Jose
-475 !
+475 !!!
 475 Felicidades
 475 por
 475 sus
@@ -4626,41 +5112,46 @@
 475 en
 475 tepic
 475 nayarit
-475 !
+475 !!!
+
 476 Buens
 476 n
 476 cupari
+
 477 que
 477 hay
 477 ne
 477 kupai
 477 ?
+
 478 Eso
 478 es
 478 todo
-478 .
+478 .....
 478 ne
 478 taru
+478 ..
 478 .
-478 .
-478 .
+478 ..
 478 por
 478 las
 478 palabras
 478 .
-478 .
-479 .
+478 ....
+
+479 ...
 479 '+xatsikayari
-479 .
+479 ...
 479 Me
 479 imagino
 479 no
-479 .
+479 ??...
 479 Es
 479 una
 479 bonita
 479 historia
-479 .
+479 ....
+
 480 Aixi
 480 tsi
 480 ni
@@ -4677,6 +5168,7 @@
 480 plisss
 480 O
 480 vendenmelo
+
 481 P+kawiyer+me
 481 .
 481 Xene'+wiyat+
@@ -4689,16 +5181,20 @@
 481 sobre
 481 Tepic
 481 .
+
 482 Ese
 482 Panchis
 482 m+pa+xeik+a
+
 483 Sale
 483 mañana
 483 n
 483 cupari
+
 484 enserio
 484 nomedejes
 484 aku
+
 485 PAMPARIYUTSI
 485 .
 485 Muchas
@@ -4707,16 +5203,18 @@
 485 seguir
 485 y
 485 compartir
+
 486 Ne
 486 uka
 486 vente
 486 paka
-486 .
+486 ....
 486 vamos
 486 el
 486 naile
 486 uxa
 486 aa
+
 487 Un
 487 gran
 487 recuerdo
@@ -4736,18 +5234,21 @@
 487 nemetsi'iyata
 487 neteukari
 487 .
+
 488 Ne
 488 cepillo
 488 Ne
 488 meuyeh+a
+
 489 Tsepari
 489 colgate
 489 xeik+
 489 ne
 489 para
 489 kuanii
-489 .
+489 ...
 489 jajjaja
+
 490 K
 490 linds
 490 son
@@ -4756,35 +5257,40 @@
 490 de
 490 ZokipAn
 490 jee
+
 491 Yakututu
 491 nie
 491 ta
 491 waiku
 491 pehe
 491 nawarieni
-491 .
+491 ..
 491 jaaa
 491 saludos
 491 amiga
+
 492 Que
 492 k+m+ri
 492 a
 492 clases
 492 ukary
+
 493 Jajajaja
 493 con
 493 m+me
+
 494 Ke
 494 kuta
 494 rik+
 494 neniña
+
 495 Oigan
 495 amigas
 495 hermosas
 495 falte
 495 yop
 495 hehe
-495 .
+495 ...
 495 Jiji
 495 no
 495 se
@@ -4796,15 +5302,21 @@
 495 ustedes
 495 están
 495 guapísimas
-495 😘😘😍😍las
+495 😘
+495 😘
+495 😍
+495 😍
+495 las
 495 kiero
 495 ukarizz
+
 496 Jjjjj
 496 si
 496 me
 496 jjjj
 496 aku
 496 neamore
+
 497 Presenta
 497 a
 497 tu
@@ -4812,18 +5324,22 @@
 497 ne
 497 iwa
 497 au
+
 498 aaa
 498 pasiona
 498 ti
 498 h+k+
+
 499 Que
 499 bonito
 499 es
 499 lo
 499 bonito
 499 yuimakwaxa
+
 500 Guapos
 500 xeme
+
 501 No
 501 eres🔚
 501 "
@@ -4846,6 +5362,7 @@
 501 vida
 501 Ne
 501 iyari
+
 502 Oyee
 502 pero
 502 Wikipedia
@@ -4854,13 +5371,15 @@
 502 fuente
 502 No
 502 confiable
-502 .
+502 ...
 502 tsepa
 502 ?
+
 503 Tsepa
 503 au
 503 neamor
 503 😱
+
 504 !
 504 Estan
 504 invitad@s
@@ -4889,6 +5408,7 @@
 504 sabado
 504 q
 504 kuta
+
 505 Jjjj
 505 ai
 505 mi
@@ -4897,11 +5417,13 @@
 505 bn
 505 me
 505 aku
+
 506 Neta
 506 de
 506 yuriku
 506 ne
 506 paine
+
 507 Aaa
 507 si
 507 esta
@@ -4914,31 +5436,36 @@
 507 zhula
 507 .
 507 .
+
 508 Think
 508 ,
 508 forever
 508 neykame
+
 509 Extraño
 509 ami
 509 kuee
 509 x+
+
 510 A
 510 disfrutar
 510 de
 510 la
 510 solteria
-510 .
+510 ..
 510 kenaineni
-510 .
+510 ..
+
 511 De
 511 nada
 511 fue
 511 un
 511 plaser
-511 .
+511 ...
 511 eku
 511 uka
-511 .
+511 .....
+
 512 ma++
 512 neprima
 512 extrañando
@@ -4992,8 +5519,10 @@
 512 prima
 512 me
 512 aku
+
 513 Nechiquilla
 513 hermosa
+
 514 ucha
 514 suerte
 514 ne
@@ -5006,12 +5535,14 @@
 514 al
 514 evento
 514 🍃
+
 515 Saludos
-515 .
+515 ..
 515 Mys
 515 hamikus
-515 .
+515 ...
 515 Animo
+
 516 Perroncillos
 516 ,
 516 échenle
@@ -5040,24 +5571,26 @@
 516 Tuapurie
 516 .
 516 🙉🙉🙉
+
 517 Muchisimas
-517 .
+517 ..
 517 Gracias
-517 .
+517 ...
 517 Primo
-517 .
+517 ..
 517 x
 517 tus
 517 animos
-517 .
+517 ...
 517 tep+
-517 .
+517 ...
 517 jeje
-517 .
+517 ...
 517 claro
 517 ke
 517 si
-517 .
+517 ...
+
 518 Wuauuu
 518 ook
 518 les
@@ -5066,6 +5599,7 @@
 518 no
 518 cau
 518 mal
+
 519 Gracias
 519 por
 519 tu
@@ -5085,7 +5619,7 @@
 519 trabajo
 519 Animo
 519 Bro
-519 !
+519 !!!
 519 Aqui
 519 le
 519 seguimos
@@ -5093,3 +5627,5 @@
 519 ganitas
 519 !
 519 !
+
+
