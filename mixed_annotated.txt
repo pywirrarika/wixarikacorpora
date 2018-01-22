@@ -370,2184 +370,1947 @@
 34 wen+iiiii WIX
 34 .
 
-35 la
-35 chula
-35 de
-35 ninita
-35 ne
-35 balu
+35 la ES
+35 chula ES-SLANG
+35 de ES
+35 ninita ES-SLANG
+35 ne WIX
+35 balu NE
 35 ...
 
-36 Ne
-36 mare
+36 Ne WIX
+36 mare NE
 36 !
-36 Yak+t+t+
-36 echiwa
+36 Yak+|t+|t+  WIX
+36 echiwa WIX
 36 !
-36 Saludos
+36 Saludos ES
 
-37 Ke
-37 kuta
-37 kwinie
-37 chipeutitemaik+
+37 Ke|kuta WIX
+37 kwinie WIX
+37 chi|pe|u|ti|temaik+ WIX
 37 ...
-37 Saludos
-37 xochl
+37 Saludos ES
+37 xochl NE.ES
 
-38 neamolsitha
+38 ne|amol|sitha MIXED
+- ne WIX
+- amol ES-SLANG
+- sitha ES-SLANG
 
-39 Mis
-39 mejores
-39 deseos
-39 un
-39 dia
-39 feliz
-39 ,
-39 lleno
-39 de
-39 amor
-39 y
-39 de
-39 alegria
-39 ...
-39 Gracias
-39 x
-39 un
-39 año
-39 mas
-39 y
-39 un
-39 año
-39 menos
-39 ...
-39 De
-39 yuri
+40 a|cuñada MIXED
+- a WIX
+- cuñana ES
+40 kunie WIX
+40 ane|tu MIXED
+- ane WIX
+- tu ES
+40 hiii EN
+40 saludias ES-SLANG
 
-40 a
-40 cuñada
-40 kunie
-40 anetu
-40 hiii
-40 saludias
+41 saludos ES
+41 uka WIX
+41 va ES
 
-41 saludos
-41 uka
-41 va
-
-42 K
-42 kuta
-42 te
-42 pa
-42 iwarie
+42 Ke|kuta WIX
+42 te|pa|iwa|rie WIX
 42 ....
-42 Nos
-42 hicieron
-42 birria
+42 Nos ES
+42 hicieron ES
+42 birria ES
 42 .
 42 ..
-42 tsiepakuta
-42 hay
-42 pala
-42 otra
+42 tsi|e|pa|kuta WIX
+42 hay ES
+42 pala ES-SLANG
+42 otra ES
 
-43 Karik+tsu
-43 pu
-43 ne
-43 naine
-43 ne
-43 riek+
-43 a
-43 ku
-43 ek+
-43 ne
-43 amiga
-43 NE
+43 Karik+tsu WIX ?
+43 pu|ne|naine WIX
+43 ne|riek+ WIX
+43 a|ku|ek+ WIX
+43 ne|amiga MIXED
+43 NE NE
 
 44 ¡
-44 RECUERDA
-44 NOS
-44 VEMOS
-44 EL
-44 SÁBADO
+44 RECUERDA ES
+44 NOS ES
+44 VEMOS ES
+44 EL ES
+44 SÁBADO ES
 44 15
-44 DE
-44 JULIO
-44 ,
-44 M+PA+
-44 XETA
-44 'ERIWANI
-44 NE
-44 'IWAMA
+44 DE ES
+44 JULIO ES
+44 , 
+44 M+|PA+|XETA WIX 
+44 'ERIWANI WIX
+44 NE|'IWAMA WIX
 44 !
 
 45 ¡
-45 VEN
+45 VEN ES
 45 ,
-45 PARTICIPA
-45 Y
-45 DIVIÉRTETE
+45 PARTICIPA ES
+45 Y ES
+45 DIVIÉRTETE ES
 45 ,
-45 PAMPARIYUTSI
+45 PAMPARIYUTSI WIX
 45 !
 
-46 Una
-46 preunga
+46 Una ES
+46 preunga ES
+46 , 
+46 donde ES
+46 es ES
+46 eso ES
+46 ?? 
+46 Tateikie NE.WIX
 46 ,
-46 donde
-46 es
-46 eso
-46 ??
-46 Tatei
-46 -
-46 Kie
+46 teyupannie WIX ?
+46 h+xie WIX
 46 ,
-46 teyupannie
-46 h+xie
+46 que ES
+46 buena ES
+46 foto ES
 46 ,
-46 que
-46 buena
-46 foto
-46 ,
-46 me
-46 gustó
-46 mucho
+46 me ES
+46 gustó ES
+46 mucho ES 
 46 !
 
-47 Siiiiii
-47 m+tat+
+47 Siiiiii ES
+47 m+|tat+ WIX
 
-48 Ammm
+48 Ammm 
 48 .
-48 bueno
+48 bueno ES
 48 .
 48 ..
-48 mas
-48 te
-48 vale
-48 ehhh
-48 ne
-48 iwaru
-48 shula
-48 elmosha
+48 mas ES
+48 te ES
+48 vale ES
+48 ehhh ES
+48 ne|iwa|ru WIX
+48 shula ES-SLANG
+48 elmosha ES-SLANG
 
-49 Esa
-49 norma
-49 ....
-49 el
-49 sapo
-49 kere'ane
+49 Esa ES
+49 NE NE
+49 .... 
+49 el ES
+49 sapo ES
+49 ke|re|'ane WIX
 
-50 neta
-50 ne
-50 tsuri
-50 kameti
-50 nake
+50 neta ES-SLANG 
+50 ne|tsu|ri WIX 
+50 kameti WIX
+50 nake WIX
 50 ...
-50 aku
-50 ne
-50 kunatsi
+50 aku WIX
+50 ne|kuna|tsi WIX
 
-51 ket+
-51 kuta
-51 ukari
+51 ket+ WIX
+51 kuta WIX
+51 uka|ri WIX
 51 ..
-51 comoke
-51 neuxemate
+51 comoke ES-SLANG
+51 ne|u|xe|mate WIX
 
-52 puro
-52 teut+a
+52 puro ES
+52 te|u|t+a WIX
 
-53 Eso
-53 es
-53 todo
-53 puro
-53 temut+a
+53 Eso ES
+53 es ES
+53 todo ES
+53 puro ES
+53 te|mu|t+a WIX
 
-54 Sin
-54 más
-54 están
-54 totalmente
-54 todos
-54 invitados
-54 a
-54 la
-54 gran
-54 fiesta
-54 tradicional
-54 de
-54 Híkuri
-54 Neixa
+54 Sin ES
+54 más ES
+54 están ES
+54 totalmente ES
+54 todos ES
+54 invitados ES
+54 a ES
+54 la ES
+54 gran ES
+54 fiesta ES
+54 tradicional ES
+54 de ES
+54 Híkuri WIX
+54 Neixa WIX
 54 .
 
-55 el
-55 Pronunciamiento
-55 de
-55 Wirikuta
-55 y
-55 la
-55 Declaración
-55 de
-55 Keiyatsita
+55 el ES
+55 Pronunciamiento ES
+55 de ES
+55 Wirikuta NE.WIX
+55 y ES
+55 la ES
+55 Declaración ES
+55 de ES
+55 Keiyatsita NE.WIX
 55 .
 
-56 tradicionales
-56 en
-56 los
-56 diferentes
-56 lugares
-56 sagrados
-56 como
-56 KEIYATSITA
+56 tradicionales ES
+56 en ES
+56 los ES
+56 diferentes ES
+56 lugares ES
+56 sagrados ES
+56 como ES
+56 KEIYATSITA WIX
 56 (
-56 Rosarito
+56 Rosarito NE.ES
 56 ,
-56 Nay
+56 Nay NE.ES
 56 ),
-56 PAR+YA
-56 TEK+A
+56 PAR+YA NE.WIX
+56 TEK+A NE.WIX
 56 (
-56 Cerro
-56 Quemado
+56 Cerro NE.ES
+56 Quemado NE.ES
 56 ),
-56 UTUTAWITA
+56 UTUTAWITA NE.WIX
 56 (
-56 Cerro
-56 de
-56 Dios
+56 Cerro ES
+56 de ES
+56 Dios ES
 56 )
-56 muy
-56 cerca
-56 de
-56 Bernalejo
+56 muy ES
+56 cerca ES
+56 de ES
+56 Bernalejo NE.ES
 56 ,
-56 Dgo
+56 Dgo NE.ES
 56 ,
-56 Kewimutaa
+56 Kewimutaa NE.WIX
 56 (
-56 Ixtalpa
+56 Ixtalpa NE.ES
 56 ,
-56 Nay
+56 Nay NE.ES
 56 ),
-56 COHAMIATA
+56 COHAMIATA NE.ES
 56 (
-56 Cerca
-56 de
-56 San
-56 Andrés
-56 Cohamiata
+56 Cerca ES
+56 de ES
+56 San NE.ES
+56 Andrés NE.ES
+56 Cohamiata NE.ES
 56 )
 
-57 BACHILLERATO
-57 INTERCULTURAL
-57 “TAKUTSI
-57 NIUKIEYA”
+57 BACHILLERATO ES
+57 INTERCULTURAL ES
+57 “
+57 TA|KUTSI WIX 
+57 NIU|KIEYA WIX
+57 ”
 57 .
 
-58 saludos
-58 cuídate
-58 mucho
-58 ánimo
-58 wixarika
-58 xeik+a
-58 Aku
+58 saludos ES
+58 cuídate ES
+58 mucho ES
+58 ánimo ES
+58 wixarika WIX
+58 xei|k+a WIX
+58 Aku WIX
 
-59 Ek+ts+
-59 pe
-59 ne
-59 Aukwe
+59 Ek+|ts+ WIX
+59 pe|ne|aukwe WIX
 59 ...
-59 Así
-59 va
-59 una
-59 canción
+59 Así ES
+59 va ES
+59 una ES
+59 canción ES
 
-60 No
-60 es
-60 cierto
+60 No ES
+60 es ES
+60 cierto ES
 60 ,
-60 la
-60 canción
-60 dice
+60 la ES
+60 canción ES
+60 dice ES
 60 :
-60 'Ek+
-60 ts+
-60 pemune
-60 'Aukwe
+60 'Ek+|ts+ WIX
+60 pe|m|u|ne|aukwe WIX
 
-61 Hola
-61 amiga
-61 tu
-61 muy
-61 guapa
-61 y
-61 hermosa
-61 aku
-61 ts+
+61 Hola ES
+61 amiga ES
+61 tu ES
+61 muy ES
+61 guapa ES
+61 y ES
+61 hermosa ES
+61 aku|ts+ WIX
 
-62 Saludos
-62 a
-62 ambas
+62 Saludos ES
+62 a ES
+62 ambas ES
 62 ...
-62 Aixu
-62 xep+teyuxexeiya
+62 Aixu WIX
+62 xe|p+|te|yu|xe|xeiya WIX
 62 .
 
-63 Mínimo
+63 Mínimo ES
 63 ...
-63 Un
-63 saludo
+63 Un ES
+63 saludo ES
 63 ..
-63 Pal
-63 Ukiratsi
+63 Pal ES
+63 Uki|ratsi WIX
 63 ...
-63 Ya
-63 que
-63 no
-63 se
-63 acuerdan
-63 ni
-63 los
-63 xaip+
+63 Ya ES
+63 que ES
+63 no ES
+63 se ES
+63 acuerdan ES
+63 ni ES
+63 los ES
+63 xaip+ WIX
 63 ...
 
-64 Ne
-64 iwa
+64 Ne|iwa WIX
 64 !
-64 pamparios
-64 por
-64 compartir
-64 :
-64 D
-64 pero
-64 inviten
-64 este
-64 año
-64 pues
+64 pamparios WIX
+64 por ES
+64 compartir ES
+64 :D
+64 pero ES
+64 inviten ES
+64 este ES
+64 año ES
+64 pues ES
 64 ...
-64 saludos
+64 saludos ES
 
-65 Ne
-65 kati
-65 ter+wawe
-65 wixarikaku
+65 Ne|kati WIX.NE
+65 ter+wawe WIX ? 
+65 wixarika|ku WIX
 65 ..
-65 pero
-65 esta
-65 chido
+65 pero ES
+65 esta ES
+65 chido ES
 65 ..
-65 saludos
+65 saludos ES
 
-66 Hiik+
-66 xeik+a
-66 peyetuiwa
-66 España
+66 Hiik+ WIX
+66 xei|k+a WIX 
+66 pe|ye|tuiwa WIX
+66 España ES
 66 .
-66 Pero
-66 x+ka
-66 petiuter+wam+k+ni
-66 nexapa
-66 Nemetsiniut+a
+66 Pero ES
+66 x+ka WIX
+66 pe|ti|u|te|r+wa|m+k+|ni WIX
+66 ne|xapa WIX
+66 Ne|me|tsi|ni|u|t+a WIX
 66 .
 
-67 Hola
-67 iris
+67 Hola ES
+67 iris ES
 67 ...
-67 Podría
-67 ser
-67 'Aix+
-67 p+'ane
-67 o
-67 'Aix+
-67 pereu'erieka
+67 Podría ES
+67 ser ES
+67 'Aix+ WIX
+67 p+|'ane WIX
+67 o ES
+67 'Aix+ WIX
+67 pereu'erieka WIX ?
 67 ,
-67 según
-67 el
-67 caso
+67 según ES
+67 el ES
+67 caso ES
 67 ...
-67 Saludos
+67 Saludos ES
 67 .
 
-68 EL
-68 LUGAR
-68 SAGRADO
-68 WIXÁRIKA
+68 EL ES
+68 LUGAR ES
+68 SAGRADO ES
+68 WIXÁRIKA NE.WIX
 68 "
-68 XAPAWIYEMETA
+68 XAPAWIYEMETA NE.WIX
 68 "
-68 Ubicado
-68 en
-68 la
-68 isla
-68 de
-68 los
-68 alacranes
+68 Ubicado ES
+68 en ES
+68 la ES
+68 isla ES
+68 de ES
+68 los ES
+68 alacranes ES
 68 ,
-68 Chapala
+68 Chapala NE.ES
 68 ,
-68 Jalisco
+68 Jalisco NE.ES
 68 ,
 
-69 Ne
-69 iwa
-69 Tutupika
+69 Ne|'iwa WIX 
+69 Tutupika NE.WIX
 69 !
-69 Yo
-69 quiero
-69 unos
+69 Yo ES
+69 quiero ES
+69 unos ES
 69 ,
-69 apartados
-69 y
-69 encargados
-69 si
-69 tienes
-69 otros
-69 colores
+69 apartados ES
+69 y ES
+69 encargados ES
+69 si ES
+69 tienes ES
+69 otros ES
+69 colores ES
 69 !!!
 
-70 Claro
-70 gusto
-70 ne'iwa
+70 Claro ES
+70 gusto ES
+70 ne|'iwa WIX
 70 .
 
-71 Te
-71 quiero
-71 Iwa
-71 sabes
-71 que
-71 están
-71 en
-71 mis
-71 rezos
+71 Te ES
+71 quiero ES
+71 Iwa WIX
+71 sabes ES
+71 que ES
+71 están ES
+71 en ES
+71 mis ES
+71 rezos ES
 
-72 Abrazos
-72 y
-72 mucha
-72 fé
-72 Tutu
+72 Abrazos ES
+72 y ES
+72 mucha ES
+72 fé ES
+72 Tutu WIX
 
-73 Ke
-73 ,
-73 kuta
-73 chulas
-73 ellas
+73 Ke|kuta WIX
+73 chulas ES.SLANG
+73 ellas ES
 
-74 Gracias
+74 Gracias ES
 74 !
-74 Ne
-74 plimo
+74 Ne|plimo MIXED
+- ne WIX
+- plimo ES.SLANG
 
 75 Jeje
 75 ,
-75 kepai
-75 eku
-75 no
-75 tengo
-75 ese
-75 dinero
+75 kepai WIX
+75 eku WIX
+75 no ES
+75 tengo ES
+75 ese ES
+75 dinero ES
 
-76 Hely
-76 wanio
-76 ya
-76 anet+
+76 Hely ?
+76 wanio ?
+76 ya ?
+76 anet+ WIX ?
 
 77 Jeje
 77 .
 77 .
-77 yaliku
-77 ne
-77 tio
+77 ya|liku WIX ?
+77 ne|tio MIXED
 77 jje
 
-78 Hola
-78 uka
-78 iymali
-78 yu
-78 rewy
-78 ne
-78 amiga
-78 shula
+78 Hola ES
+78 uka WIX
+78 iymali WIX
+78 yu|rewy WIX
+78 ne|amiga MIXED
+78 shula ES.SLANG
 78 .
 78 .
 
 79 Jeje
 79 ,,
-79 gracias
+79 gracias ES
 79 !
-79 Amiga
+79 Amiga ES
 79 ..
-79 eku
-79 chiere
-79 muy
-79 linda
+79 eku WIX
+79 chiere WIX
+79 muy WIX
+79 linda WIX
 79 ..
 
-80 con
-80 el
-80 apoyo
-80 de
-80 los
-80 centros
-80 anfitriones
-80 Tatuutsi
-80 Maxakwaxí
+80 con ES
+80 el ES
+80 apoyo ES
+80 de ES
+80 los ES
+80 centros ES
+80 anfitriones ES
+80 Ta|tuutsi WIX
+80 Maxa|kwa|xí WIX
 
-81 Pampariyutsi
+81 Pampariyutsi WIX
 81 ....
-81 Saludos
+81 Saludos ES
 81 ...
 
-82 Felipe
-82 de
-82 la
-82 Cruz
+82 Felipe NE.ES
+82 de ES
+82 la ES
+82 Cruz ES
 82 (
-82 neteukari
+82 ne|teukari WIX 
 82 ),
-82 Yesenia
-82 Carrillo
+82 Yesenia NE.ES
+82 Carrillo NE.ES
 82 (
-82 nekurí
+82 ne|kurí WIX
 82 ).
 
-83 Es
-83 en
-83 la
-83 zitacua
-83 verdad
-83 Tutu
+83 Es ES
+83 en ES
+83 la ES
+83 zitacua NE.WIX
+83 verdad ES
+83 Tutu NE.WIX
 
-84 Pampa
+84 Pampa WIX
 84 ...
-84 Aixe
-84 yeme
+84 Aixe WIX
+84 yeme WIX
 84 .
 84 ¿
-84 Ya
-84 ve
-84 mi
-84 amigo
+84 Ya ES
+84 ve ES
+84 mi ES
+84 amigo ES
 84 ,
-84 que
-84 sí
-84 se
-84 puede
+84 que ES
+84 sí ES
+84 se ES
+84 puede ES
 84 ?
 
-85 es
-85 un
-85 Haramara
+85 es ES
+85 un ES
+85 Haramara WIX
 
-86 los
-86 coordinadores
-86 del
-86 proyecto
-86 Señorita
-86 Estudiante
+86 los ES
+86 coordinadores ES
+86 del ES
+86 proyecto ES
+86 Señorita ES
+86 Estudiante ES
 86 :
-86 Tuutú
-86 +imari
+86 Tuutú WIX
+86 +imari WIX
 86 .
 
-87 Faltó
-87 el
-87 Muwieri
+87 Faltó ES
+87 el ES
+87 Muwieri WIX
 87 ....
-87 bueno
-87 creó
+87 bueno ES
+87 creó ES
 87 .
 
 88 ¿
-88 HAS
-88 ESCUCHADO
-88 DEL
-88 MARA'AKAME
+88 HAS ES
+88 ESCUCHADO ES
+88 DEL ES
+88 MARA'AKAME NE.WIX
 88 ?
 
-89 Ante
-89 el
-89 triunfo
-89 jurídico
-89 de
-89 la
-89 Comunidad
-89 Wixárika
-89 de
-89 San
-89 Sebastián
-89 Teponahuaxtlán
+89 Ante ES
+89 el ES
+89 triunfo ES
+89 jurídico ES
+89 de ES
+89 la ES
+89 Comunidad ES
+89 Wixárika NE.WIX
+89 de ES
+89 San ES
+89 Sebastián ES
+89 Teponahuaxtlán ES
 89 -
-89 Waut+a
+89 Waut+a NE.WIX
 89 y
-89 Tuxpan
+89 Tuxpan NE.ES
 89 -
-89 Kuruxi
-89 Manuwe
-89 de
-89 los
-89 municipios
-89 de
-89 Mezquitic
-89 y
-89 Bolaños
+89 Kuruxi NE.WIX
+89 Manuwe NE.WIX
+89 de  ES
+89 los ES
+89 municipios ES
+89 de ES
+89 Mezquitic NE.ES
+89 y ES
+89 Bolaños NE.ES
 89 ,
 
-90 Tam+
+90 Tam+ WIX
 90 ,
-90 m+k+tat+
-90 memo
-90 listones
+90 m+k+|ta|t+ WIX
+90 memo ES
+90 listones ES
 90 ,
-90 así
-90 es
-90 Nery
+90 así ES
+90 es ES
+90 Nery NE.ES
 90 ...
 
-91 Saludos
-91 ne
-91 t+karima
+91 Saludos ES
+91 ne|t+karima WIX ?
 91 .
 
-92 Ke
-92 Aku
-92 Saludos
-92 amigos
-92 Wixarika
+92 Ke|Aku WIX
+92 Saludos ES
+92 amigos ES
+92 Wixarika NE.WIX
 
-93 hiii
-93 ne
-93 cuñado
+93 hiii EN
+93 ne|cuñado MIXED
 93 ,
-93 kepere'
-93 naane
-93 ;
-93 )
-93 waniu
+93 ke|pe|re'|na|ane WIX
+93 ;)
+93 waniu WIX
 
-94 No
-94 le
-94 des
-94 tu
-94 vida
-94 a
-94 quien
-94 solo
-94 destruye
-94 tu
-94 'iyari
-94 sin
-94 compasión
+94 No ES
+94 le ES
+94 des ES
+94 tu ES
+94 vida ES
+94 a ES
+94 quien ES
+94 solo ES
+94 destruye ES
+94 tu ES
+94 'iyari WIX
+94 sin ES
+94 compasión ES
 94 .
 
-95 nawa
-95 te
-95 ieka
-95 kuta
+95 nawa WIX
+95 te|i|eka WIX
+95 kuta WIX
 95 .
-95 esto
-95 no
-95 me
-95 puede
-95 estar
-95 pasando
-95 a
-95 mi
+95 esto ES
+95 no ES
+95 me ES
+95 puede ES
+95 estar ES
+95 pasando ES
+95 a ES
+95 mi ES
 95 .
-95 ke
-95 ane
-95 ne
-95 meu
-95 yah+akai
-95 es
+95 ke|ane WIX
+95 ne|me|u|ya|h+a|kai WIX
+95 es ES
 95 ....
-95 :
-95 P
+95 :P
 95 😂
 95 😂
 95 🤣
-95 como
-95 va
-95 la
-95 cancion
+95 como ES
+95 va ES
+95 la ES
+95 cancion ES
 95 ?
-95 y
-95 pasenme
-95 otro
-95 vaso
-95 de
-95 nawa
+95 y ES
+95 pasenme ES
+95 otro ES
+95 vaso ES
+95 de ES
+95 nawa WIX
 95 ....
 95 😂
 95 😂
 
-96 Es
-96 neta
+96 Es ES
+96 neta ES.SLANG
 96 ....
-96 tu
-96 tomando
-96 nawa
+96 tu ES
+96 tomando ES
+96 nawa WIX
 96 ...
-96 kien
-96 te
-96 viera
-96 carnala
+96 kien ES.SLANG
+96 te ES
+96 viera ES
+96 carnala ES.SLANG
 
-97 si
-97 les
-97 gusta
+97 si ES
+97 les ES
+97 gusta ES
 97 ...
-97 y
-97 con
-97 sentimiento
-97 ne
-97 iwama
+97 y ES
+97 con ES
+97 sentimiento ES
+97 ne|iwa|ma WIX
 97 ...
 
-98 Desde
-98 esa
-98 vez
-98 yapetitemaik+
+98 Desde ES
+98 esa ES
+98 vez ES
+98 ya|pe|ti|te|maik+ WIX
 
 99 Jijiji
-99 h+
-99 como
-99 vez
-99 ne
-99 hamika
+99 h+ WIX
+99 como ES
+99 vez ES
+99 ne|hamika MIXED
+- ne WIX
+- hamika ES.SLANG
 99 !
 99 Jaja
 
-100 Así
-100 es
+100 Así ES
+100 es ES
 100 ..
-100 kema
-100 a
+100 kema WIX
+100 a WIX
 
-101 Y
-101 que
-101 nos
-101 agarró
-101 la
-101 lluvia
-101 wa'at+
+101 Y ES
+101 que ES
+101 nos ES
+101 agarró ES
+101 la ES
+101 lluvia ES
+101 wa'at+ WIX
 
-102 karik+
+102 ka|rik+ WIX
 102 😂
 102 😂
 102 😇
 102 .
-102 Wistiane
-102 tu
-102 Collar
+102 Wis|ti|ane MIXED ?
+102 tu ES
+102 Collar ES
 
-103 Hu
-103 wa'at+
-103 pronto
-103 te
-103 harás
-103 una
-103 así
-103 seguroImprovisando
+103 Hu WIX
+103 wa'at+ WIX ?
+103 pronto ES
+103 te ES
+103 harás ES
+103 una ES
+103 así ES
+103 seguroImprovisando ES
 103 !
 103 !
 
-104 #Tam+Katiy+we
+104 #Ta|m+|Ka|ti|y+we WIX
 
-105 ok
+105 ok EN
 105 ,
-105 kuta
+105 kuta WIX
 
-106 Aixi
-106 no
-106 los
-106 vaya
-106 a
-106 llevar
-106 la
-106 lluvia
+106 Aixi WIX
+106 no ES
+106 los ES
+106 vaya ES
+106 a ES
+106 llevar ES
+106 la ES
+106 lluvia ES
 
 107 ...
-107 hu
-107 tam+
-107 que
-107 ahi
-107 que
-107 hacer
+107 hu WIX
+107 tam+ WIX
+107 que ES
+107 ahi ES
+107 que ES
+107 hacer ES
 107 ...
 
-108 kewatari
-108 ne
-108 jugo
+108 kewata|ri WIX ?
+108 ne|jugo MIXED
 
-109 Kepai
-109 ts+
-109 ne
-109 ts+k+
-109 wiyarie
-109 yu'
-109 u
-109 mieme
-109 casi
+109 Ke|pai WIX
+109 ts+|ne|ts+k+ WIX
+109 wiya|rie WIX
+109 yu'|u|mieme WIX
+109 casi ES
 109 jeje
 
-110 Nooooooo
-110 kename
-110 rekainie
+110 Nooooooo ES
+110 ke|name WIX ?
+110 re|ka|i|nie WIX
 110 jajaja
 
-111 Villa
-111 kuta
-111 heiwa
+111 Villa ES
+111 kuta WIX
+111 he|iwa WIX
 
-112 Simón
-112 ne
-112 kema
+112 Simón ES
+112 ne|kema WIX
 
-113 Así
-113 es
-113 primo
-113 Puro
-113 perron
-113 Aku
+113 Así ES
+113 es ES
+113 primo ES
+113 Puro ES
+113 perron ES.SLANG
+113 Aku WIX
 
-114 Micheladas
-114 keri
-114 ne
-114 peu
-114 im+k+
+114 Micheladas ES.SLANG
+114 keri WIX
+114 ne|peu|i|m+k+ WIX
 
-115 pero
-115 me
-115 queda
-115 algo
-115 lejos
-115 aku
+115 pero ES
+115 me ES
+115 queda ES
+115 algo ES
+115 lejos ES
+115 aku WIX
 
 116 uuuyy
-116 es
-116 que
-116 ne
-116 kanetaunie
+116 es ES
+116 que ES
+116 ne WIX
+116 ka|ne|ta|u|nie WIX ?
 116 jeje
 
-117 Mejor
-117 nos
-117 lo
-117 tomamos
-117 para
-117 el
-117 sábado
-117 aku
-117 amiga
+117 Mejor ES
+117 nos ES
+117 lo ES
+117 tomamos ES
+117 para ES
+117 el ES
+117 sábado ES
+117 aku WIX
+117 amiga ES
 
-118 Hola
+118 Hola ES
 118 .
 118 .
-118 como
-118 estas
+118 como ES
+118 estas ES
 118 .
 118 .
-118 Uka
+118 Uka WIX
 
-119 Te
-119 amo
-119 mi
-119 amor
+119 Te ES
+119 amo ES
+119 mi ES
+119 amor ES
 119 .
-119 ok
+119 ok EN
 119 .
-119 ya
-119 pronto
-119 voy
-119 a
-119 ir
-119 a
-119 Tepic
+119 ya ES
+119 pronto ES
+119 voy ES
+119 a ES
+119 ir ES
+119 a ES
+119 Tepic NE.ES
 119 ,
-119 para
-119 llevarte
-119 a
-119 comer
-119 al
-119 centro
+119 para ES
+119 llevarte ES
+119 a ES
+119 comer ES
+119 al ES
+119 centro ES
 119 ...
-119 no
-119 te
-119 agüites
+119 no ES
+119 te ES
+119 agüites ES.SLANG
 119 .
-119 nemetsinaki'erie
+119 ne|me|tsi|naki|'erie WIX
 119 .
 
-120 Ke
-120 aku
-120 ne
-120 kema
-120 Desde
-120 Evansville
-120 Indiana
+120 Ke|aku WIX
+120 ne|kema WIX
+120 Desde ES
+120 Evansville NE.EN
+120 Indiana NE.EN
 120 .
 
 121 Je
-121 ne
-121 primos
-121 muy
-121 shulos
+121 ne|primos MIXED
+- ne WIX
+- primos ES
+121 muy ES
+121 shulos ES.SLANG
 121 ..
-121 Q
-121 estén
-121 bien
+121 Q ES.SLANG
+121 estén ES
+121 bien ES
 121 ...
 
-122 Viento
-122 Wixárika
+122 Viento ES
+122 Wixárika NE.WIX
 122 -
-122 'Ek+
-122 tsipe
-122 ane
+122 'Ek+ WIX
+122 tsi|pe|ane WIX
 
-123 Saludos
-123 ne
-123 kema
+123 Saludos ES
+123 ne|kema WIX
 
-124 k
-124 tsu
-124 maineni
-124 ne
-124 primo
-124 charli
+124 ke|tsu WIX
+124 maineni WIX ?
+124 ne|primo MIXED
+124 charli NE.EN
 
-125 Que
-125 guapa
-125 uká
+125 Que ES
+125 guapa ES
+125 uká WIX
 
-126 foto
-126 de
-126 waru
-126 aik+
-126 mieme
+126 foto ES
+126 de ES
+126 waru WIX
+126 a|ik+|mieme WIX
 126 ..
 126 jaja
 126 ..
-126 no
-126 te
-126 cresss
+126 no ES
+126 te ES
+126 cresss ES
 126 ,,
-126 esta
-126 shido
-126 mi
-126 flor
+126 esta ES
+126 shido ES.SLANG
+126 mi ES
+126 flor ES
 126 ...
 
-127 Obviamente
-127 mi
-127 nombre
-127 en
-127 wixa
-127 es
-127 tuli
-127 wenima
+127 Obviamente ES
+127 mi ES
+127 nombre ES
+127 en ES
+127 wixa WIX
+127 es ES
+127 tuli NE.WIX
+127 wenima NE.WIX
 127 ...
-127 y
-127 maricela
-127 en
-127 teiwarikt
+127 y ES
+127 maricela NE.ES
+127 en ES
+127 teiwari|k+ WIX
 
-128 ne
-128 kuahauyeim+ki
-128 Chiné
-128 kuareune
-128 +raxie
-128 ne
-128 hamikama
-128 saludos
+128 ne WIX
+128 kuahauyeim+ki WIX ?
+128 Chi|né WIX
+128 kuareune WIX ?
+128 +ra|xie WIX ?
+128 ne WIX
+128 hamika|ma MIXED
+- hamika ES.SLANG
+- ma WIX
+128 saludos ES
 128 .
 
-129 Que
-129 hermosa
+129 Que ES
+129 hermosa ES
 129 😍
-129 mi
-129 princesa
-129 uka
+129 mi ES
+129 princesa ES
+129 uka WIX
 
-130 ne
-130 uki
-130 guapo
+130 ne|uki WIX
+130 guapo ES
 
 131 jejejej
-131 gracias
-131 au
-131 uka
+131 gracias ES
+131 au WIX
+131 uka WIX
 131 ..
 
-132 Ola
-132 corazon
-132 ketal
-132 asta
-132 ke
-132 me
-132 recuerdas
-132 me
-132 netaku
-132 tekielo
-132 muchooooo
-132 va
+132 Ola ES.SLANG
+132 corazon ES
+132 ketal ES.SLANG
+132 asta ES.SLANG
+132 ke ES.SLANG
+132 me ES
+132 recuerdas ES
+132 me WIX
+132 ne|taku WIX
+132 tekielo ES.SLANG
+132 muchooooo ES
+132 va ES
 
-133 invita
-133 el
-133 amigo
-133 nawá
-133 y
-133 modelo
-133 especial
+133 invita ES
+133 el ES
+133 amigo ES
+133 nawá WIX 
+133 y ES
+133 modelo ES
+133 especial ES
 133 ...
 
 134 Jaja
-134 hay
-134 tu
-134 crees
-134 ..??
-134 Uki
-134 gracias
-134 bby
-134 y
-134 tu
-134 siempre
-134 tan
-134 Helmosho
-134 aku
-134 Saludos
-134 se
-134 te
-134 kiere
+134 hay ES
+134 tu ES
+134 crees ES
+134 ..
+134 ??
+134 Uki WIX
+134 gracias ES
+134 bby EN.SLANG
+134 y ES
+134 tu ES
+134 siempre ES
+134 tan ES
+134 Helmosho ES.SLANG
+134 aku WIX
+134 Saludos ES
+134 se ES
+134 te ES.SLANG
+134 kiere ES.SLANG
 
-135 Así
-135 es
-135 uka
+135 Así ES
+135 es ES
+135 uka WIX
 
-136 Guapa
+136 Guapa ES
 136 !
-136 Uka
+136 Uka WIX
 136 !
 
-137 Uka
-137 linda
+137 Uka WIX
+137 linda WS
 
-138 ay
-138 uka
-138 wapa
-138 cileninielet+
-138 kuta
+138 ay ES.SLANG
+138 uka WIX
+138 wapa ES.SPLANG
+138 cileninielet+ WIX ?
+138 kuta WIX
 
-139 los
-139 apartes
+139 los ES
+139 apartes ES
 139 ,
 139 ejejej
-139 ntc
+139 ntc ES.SLANG
 139 .
-139 hermosa
-139 ek+
-139 tkm
+139 hermosa ES
+139 ek+ WIX
+139 tkm ES.SLANG
 139 .
 
-140 K+tsi
-140 luaku
-140 bien
-140 peakananeti
+140 K+|tsi WIX
+140 luaku WIX ?
+140 bien ES
+140 pe|a|ka|naneti WIX ?
 140 !!
-140 Au
+140 Au WIX
 140 !
 
-141 Skul
+141 Skul EN.SLANG
 141 .
 141 jajaja
 141 .
-141 uka
-141 nemetsinawani
+141 uka WIX
+141 ne|me|tsi|nawa|ni WIX
 
-142 Animo
-142 pariente
-142 así
-142 nomas
-142 pa+
-142 xeik+
+142 Animo ES
+142 pariente ES
+142 así ES
+142 nomas ES.SLANG
+142 pa+ WIX
+142 xeik+ WIX
 
-143 Hitsukutarik+
-143 no
-143 se
-143 que
-143 decirte
-143 simplemente
-143 hermosas
-143 canciones
-143 y
-143 más
-143 en
+143 Hi|tsu|ku|tari|k+ WIX
+143 no ES
+143 se ES
+143 que ES
+143 decirte ES
+143 simplemente ES
+143 hermosas ES
+143 canciones ES
+143 y ES
+143 más ES
+143 en ES
 143 wixarika
-143 esas
-143 me
-143 encantaron
-143 más
+143 esas ES
+143 me ES
+143 encantaron ES
+143 más ES
 143 .
-143 'Ariri
-143 peputawi
+143 'A|ri|ri WIX
+143 pe|p|u|tawi WIX
 143 .
 
-144 Hey
-144 uka
-144 nunutsi
-144 temaikx
-144 nemetsinawani
+144 Hey EN
+144 uka WIX
+144 nunutsi WIX
+144 temai|k+ WIX
+144 ne|me|tsi|nawa|ni WIX
 144 .
-144 Kauka
+144 Ka|uka WIX
 144 .
 
-145 Saludos
-145 uka
-145 nunutsi
-145 temaikx
-145 nemetsinawani
+145 Saludos ES
+145 uka WIX
+145 nunutsi WIX
+145 temai|kx WIX
+145 ne|me|tsi|nawa|ni WIX
 145 .
 
-146 Kien
-146 gusta
-146 de
-146 tsinarii
+146 Kien ES.SLANG
+146 gusta ES
+146 de ES
+146 tsi|narii WIX
 146 .?
 
-147 ne
-147 kie
-147 ne
-147 nuari
-147 ne
-147 metsi
-147 jaeriwa
-147 animo
+147 ne|kie WIX
+147 ne|nua|ri WIX
+147 ne|metsi WIX
+147 jaeriwa WIX
+147 animo ES
 
-148 Kuxi
-148 ne
-148 kuata
-148 awe
-148 ne
-148 kita
-148 esta
-148 lejitos
-148 de
-148 la
-148 central
+148 Kuxi WIX
+148 ne|kuata WIX
+148 awe WIX
+148 ne|kita
+148 esta ES
+148 lejitos ES
+148 de ES
+148 la ES
+148 central ES
 
-149 Casi
-149 ne
-149 penetseat+may
+149 Casi ES
+149 ne WIX
+149 pe|ne|tse|a|t+may WIX
 149 ...
-149 Ne+
-149 h+k+
+149 Ne+|h+k+ WIX
 149 ...
 149 jeje
 
-150 En
-150 Tatei
-150 -
-150 Kie
+150 En ES
+150 TateiKie NE.WIX
 150 ,
-150 teyupannie
-150 h+xie*
+150 te|yu|pa|nnie WIX
+150 h+|xie WIX
 
-151 excelente
-151 canta
-151 bien
-151 y
-151 salio
-151 bien
-151 la
-151 uka
-151 saludos
+151 excelente ES
+151 canta ES
+151 bien ES
+151 y ES
+151 salio ES
+151 bien ES
+151 la ES
+151 uka WIX
+151 saludos ES
 151 ..
 
-152 Renaciendo
-152 Iyari
-152 mis
-152 compas
-152 de
-152 abrazos
+152 Renaciendo WIX
+152 Iyari WIX
+152 mis ES
+152 compas ES
+152 de ES
+152 abrazos ES
 152 ,
-152 kwikari
+152 kwikari WIX
 152 kunie
-152 xe
-152 te
-152 aitat+we
+152 xe|te|a|i|ta|t+we WIX
 152 ..
 
-153 Muy
-153 bonita
-153 uka
-153 .
+154 Hola ES
+154 uka WIX
+154 +mari WIX
+154 kuinie WIX
+154 pe|ti|nake WIX
+154 de ES
+154 donde ES
+154 ers ES
+154 amiga ES
+154 sal2 ES.SLANG
 
-154 Hola
-154 uka
-154 +mari
-154 kuinie
-154 pe
-154 tinake
-154 de
-154 donde
-154 ers
-154 amiga
-154 sal2
-
-155 Ya
-155 ts+
-155 xeik+a
-155 con
-155 tu
-155 carnala
-155 chido
+155 Ya|ts+|xeik+a WIX
+155 con ES
+155 tu ES
+155 carnala ES.SLANG
+155 chido ES
 155 ...
 
-156 Kepaits+
-156 repollo
-156 waat+
+156 Kepaits+ WIX
+156 repollo ES
+156 waat+ WIX
 
-157 te
-157 acuerdas
-157 de
-157 esta
-157 fato
+157 te ES
+157 acuerdas ES
+157 de ES
+157 esta ES
+157 fato ES
 157 ja
-157 Uli
-157 tsixeuanene
-157 utsi
+157 Uli ?
+157 tsi|xe|u|ane|ne WIX
+157 u|tsi WIX
 
-158 Mi
-158 kutsi
-158 saludos
-158 desde
-158 por
-158 aka
+158 Mi ES
+158 kutsi WIX
+158 saludos ES
+158 desde ES
+158 por ES
+158 aka ES.SLANG
 
-159 Kien
-159 kiere
-159 hamuytsi
-159 vengase
-159 aki
-159 en
-159 tukipa
-159 zoq
+159 Kien ES.SLANG
+159 kiere ES.SLANG
+159 hamuytsi WIX
+159 vengase ES
+159 aki ES.SLANG
+159 en ES
+159 tukipa NE.WIX
+159 zoq NE.WIX
 159 ..
 159 mmm
-159 me
-159 eche
+159 me ES
+159 eche ES
 159 8
-159 jarras
-159 y
-159 m
-159 sobra
-159 esto
+159 jarras ES
+159 y ES
+159 m ES.SLANG
+159 sobra ES
+159 esto ES
 
-160 Grscis
+160 Grscis ES.SLANG
 160 !.
-160 metsu
+160 me|tsu WIX
 
-161 Donde
-161 estan
-161 los
-161 hamuitsi
+161 Donde ES
+161 estan ES
+161 los ES
+161 hamuitsi WIX
 161 ..
 
-162 D
-162 iku
-162 con
-162 tsatsaka
+162 D ES.SLANG
+162 iku WIX
+162 con ES
+162 tsatsaka WIX
 
-163 Yo
-163 y
-163 mi
-163 primo
-163 Josue
-163 Angel
+163 Yo ES
+163 y ES
+163 mi ES
+163 primo ES
+163 Josue NE.ES
+163 Angel NE.ES
 163 ,
-163 ta
-163 bien
-163 alegre
-163 el
-163 ukichi
+163 ta ES.SLANG
+163 bien ES
+163 alegre ES
+163 el ES
+163 uki|chi WIX
 163 ...
 
-164 Uchiii
-164 <
-164 3
-164 helmoshaa
-164 !!...
-164 #tucarita
-164 !!
-164 jijiji
-164 <
-164 3
-164 .
-164 ...
-164 Tkm
-164 chula
-164 !!!......
-164 ;
-164 )
-164 .
-164 ..
+165 Algo ES
+165 m ES.SLANG
+165 dic ES
+165 k ES.SLANG
+165 ni ES
+165 mal ES
+165 ni ES
+165 bien ES
+165 ay ES.SLANG
+165 la ES
+165 llevo ES
+165 ik+|ri WIX
+165 rey|k+a WIX
+165 ne|pe|+k+mi|m+k+ WIX ?
 
-165 Algo
-165 m
-165 dic
-165 k
-165 ni
-165 mal
-165 ni
-165 bien
-165 ay
-165 la
-165 llevo
-165 ik+ri
-165 reyk+a
-165 nepe+k+mim+k+
+166 seguro ES
+166 nayka WIX
+166 manyebie WIX
 
-166 seguro
-166 nayka
-166 manyebie
+167 Arriba ES
+167 waxiet+ WIX
+167 así ES
+167 es ES
+167 la ES
+167 musica ES
+167 del ES
+167 chalate ES
+167 mi ES
+167 rancho ES
+167 querido ES
+167 que ES
+167 jamas ES
+167 abra ES
+167 otro ES
 
-167 Arriba
-167 waxiet+
-167 así
-167 es
-167 la
-167 musica
-167 del
-167 chalate
-167 mi
-167 rancho
-167 querido
-167 que
-167 jamas
-167 abra
-167 otro
-
-168 Ek+ta
-168 tsiere
-168 guapa
+168 Ek+|ta WIX
+168 tsiere WIX
+168 guapa ES
 168 .
 
-169 Ay
-169 kepaikuta
+169 Ay ES.SLANG
+169 ke|pai|kuta WIX
 169 ......
 
-170 Obviamente
-170 mi
-170 nombre
-170 en
-170 wixa
-170 es
-170 tuli
-170 wenima
-170 ...
-170 y
-170 maricela
-170 en
-170 teiwarikt
+171 Les ES
+171 comparto ES
+171 un ES
+171 pequeño ES
+171 video ES
+171 de ES
+171 los ES
+171 goles ES
+171 que ES
+171 están ES
+171 cosechando ES
+171 los ES
+171 niños ES
+171 de ES
+171 la ES
+171 escuela ES
+171 de ES
+171 fútbol ES
+171 Waikamete WIX
 
-171 Les
-171 comparto
-171 un
-171 pequeño
-171 video
-171 de
-171 los
-171 goles
-171 que
-171 están
-171 cosechando
-171 los
-171 niños
-171 de
-171 la
-171 escuela
-171 de
-171 fútbol
-171 Waikamete
+172 Gracias ES
+172 amigas ES
+172 hechiwa WIX
+172 reik+ WIX
 
-172 Gracias
-172 amigas
-172 hechiwa
-172 reik+
-
-173 Ke
-173 name
-173 ne
-173 amika
+173 Ke|name ES
+173 ne|amika MIXED
+- ne WIX
+- amika ES.SLANG
 173 jujuju
 
-174 papamama
-174 menetsiu
-174 ti
-174 a
-174 witsiri
+174 papamama ES.WIX
+174 menetsiu WIX
+174 ti|a|witsi|ri WIX
 174 !
-174 En
-174 esta
-174 vida
-174 no
-174 hay
-174 suerte
-174 para
-174 el
-174 hombre
-174 honrrado
+174 En ES
+174 esta ES
+174 vida ES
+174 no ES
+174 hay ES
+174 suerte ES
+174 para ES
+174 el ES
+174 hombre ES
+174 honrrado ES
 174 !
 
-175 Yo
-175 ne
-175 kwe
-175 carrillo
-175 soy
-175 la
-175 imagen
-175 divina
-175 que
-175 mora
-175 en
-175 este
-175 cuerpo
+175 Yo ES
+175 ne|kwe|carrillo MIXED
+- ne WIX
+- kwe WIX
+- carrillo NE.ES
+175 soy ES
+175 la ES
+175 imagen ES
+175 divina ES
+175 que ES
+175 mora ES
+175 en ES
+175 este ES
+175 cuerpo ES
 175 !
 
-176 es
-176 ke
-176 tsineukati
-176 tawe
-176 eriwa
-176 !
-176 neu
-176 yu
-176 uayemanikey
+176 es ES
+176 ke ES.SLANG
+176 tsineukati WIX
+176 tawe WIX
+176 eriwa WIX
+176 ! 
+176 neu WIX
+176 yu WIX
+176 uayemanikey WIX
 
-177 hurik+
-177 amiga
-177 Dulce
-177 Carrillo
+177 hu|ri|k+ WIX
+177 amiga ES
+177 NE NE.ES
 177 !
-177 mejor
-177 te
-177 lo
-177 digo
-177 de
-177 una
-177 vez
+177 mejor ES
+177 te ES
+177 lo ES
+177 digo ES
+177 de ES
+177 una ES
+177 vez ES
 177 jjj
-177 saludos
-177 hermosa
+177 saludos ES
+177 hermosa ES
 177 ...
 
-178 Me
-178 aku
+178 Me ES
+178 aku WIX
 178 jeje
-178 y
-178 Que
-178 bueno
-178 Que
-178 ya
-178 me
-178 lo
-178 dices
-178 jeje
-178 ntcs
-178 ..
-178 Que
-178 Estes
-178 bien
-178 en
-178 todo
-178 momento*
+178 y ES
+178 Que ES
+178 bueno ES
+178 Que ES
+178 ya ES
+178 me ES
+178 lo ES
+178 dices ES
+178 jeje ES
+178 ntcs ES.SLANG
+178 .. 
+178 Que ES
+178 Estes ES
+178 bien ES
+178 en ES
+178 todo ES
+178 momento* ES
 178 **
 
-179 igual
-179 amiga
-179 hermosa
+179 igual ES
+179 amiga ES
+179 hermosa ES
 179 !
-179 se
-179 te
-179 quiere
-179 au
+179 se ES
+179 te ES
+179 quiere ES
+179 au WIX
 179 !
 
-180 vamos
-180 por
-180 otra
-180 mas
+180 vamos ES
+180 por ES
+180 otra ES
+180 mas ES
 180 jjj
 180 ...
-180 kentiy+weni
-180 tsiet+
-180 xewit
-180 meri
-180 te
-180 u
-180 uwa
+180 ken|ti1y+we|ni WIX
+180 tsie|t+ WIX
+180 xewit WIX
+180 meri WIX
+180 te|u|uwa
 180 !
-180 saludos
-180 ne
-180 marema
+180 saludos ES
+180 ne|marema MIXED
+- ne WIX
+- marema NE.ES
 180 !
 
 181 Jijijiji
-181 k
-181 paist+
+181 k ES.SLANG
+181 pais|t+ MIXED
+- pais ES
+- t+ WIX
 181 ..
-181 jalisco
+181 jalisco NE.ES
 181 ..
-181 tanaka
+181 ta|naka WIX
 181 ..
 
-182 aa
-182 auuu
-182 pero
-182 ts+
-182 enk+
-182 penka
-182 yuwe
+182 aa ES
+182 auuu WIX
+182 pero ES
+182 ts+|enk+ WIX
+182 penka ES
+182 yuwe WIX
 182 jajajajaja
 182 ...
 
-183 gracias
+183 gracias WS
 183 !...
-183 heiwats+
-183 x+ka
-183 aix+
-183 ne
-183 uyu
-183 kuyurieni
-183 yani
-183 niuy+neni
+183 heiwa|ts+ WIX
+183 x+ka WIX
+183 aix+ WIX
+183 ne|u|yu|ku|yurie|ni WIX
+183 ya|ni WIX
+183 ni|u|y+ne|ni WIX
 183 !
 183 jjjj
 
-184 xei
-184 kiriwayarii
-184 xeik+a
-184 nepe
-184 axix+
-184 ne
-184 hamik+
+184 xei WIX
+184 ki|ri|waya|rii WIX
+184 xei|k+a WIX
+184 ne|pe|axi|x+ WIX
+184 ne|hamik+ MIXED
+- ne WIX
+- hamik+ ES.SLANG
 184 ...
-184 ent+t+
-184 y
-184 luego
-184 empapa
-184 xeik+a
+184 en|t+t+ MIXED
+- en ES
+- t+t+ WIX
+184 y ES
+184 luego ES
+184 empapa ES
+184 xei|k+a WIX
 184 jajja
 
-185 No
-185 puedo
-185 leerlos
-185 k
-185 dicen
+185 No ES
+185 puedo ES
+185 leerlos ES
+185 k ES
+185 dicen ES
 185 ..
-185 kuinie
-185 kutarik+
-185 tep+
-185 anene
+185 kuinie WIX
+185 ku|ta|rik+ WIX
+185 te|p+|ane|ne WIX
 
-186 No
+186 No ES
 186 ,
-186 son
-186 karimutsi
-186 ando
-186 en
-186 mexico
-186 ya
-186 vez
-186 el
-186 indio
-186 con
-186 mi
-186 takutsi
+186 son ES
+186 karimutsi WIX ?
+186 ando ES
+186 en ES
+186 mexico NE.ES
+186 ya  ES
+186 vez ES
+186 el ES
+186 indio ES
+186 con ES
+186 mi ES
+186 ta|kutsi WIX 
 
-187 Jajajajaj
-187 Aix+
-187 Ts+
-
-188 Si
-188 pero
-188 no
-188 lo
-188 digas
-188 me
-188 pegan
+188 Si ES
+188 pero ES
+188 no ES
+188 lo ES
+188 digas ES
+188 me ES
+188 pegan ES
 188 ...
 188 je
-188 saludos
-188 vamos
-188 a
-188 TATEI
-188 KIE
+188 saludos ES
+188 vamos ES
+188 a ES
+188 TATEI|KIE NE.WIX
 188 ..
 
-189 Wixarika
-189 Ts+
-189 Kwinie
-189 Katiyu
-189 Yeiwieka
+189 Wixarika NE.WIX
+189 Ts+|Kwinie
+189 Katiyu WIX
+189 Ye|i|wieka WIX
 189 ,
-189 m++ri
-189 Teka
-189 Heu
-189 Uwame
-189 Xe
-189 Te
-189 Eerie
+189 m+|+ri WIX
+189 Te|ka|Heu|Uwame WIX
+189 xe|te|eerie WIX
 
-190 Yemets+
-190 karik+
-190 wixarika
-190 .
+192 Mee|ts+ WIX
+192 El ES
+192 Chalate NE.ES
+192 Tuapurie NE.WIX
+192 Kuru|xi WIX
+192 Wakaa WIX
+192 Tateikie NE.WIX
+192 Nueva NE.ES
+192 Colonia NE. ES
+192 M+|ti|u|ye|ane WIX
+192 Ne|Me||Maarie WIX
 
-191 Ke
-191 aiguien
-191 me
-191 preste
-191 sus
-191 trajes
-191 para
-191 las
-191 fotos
-191 ..
+194 Es ES
+194 muy ES
+194 cierto ES
+194 amiga ES
+194 fíjate ES
+194 nadamas ES
+194 las ES
+194 piernas ES
+194 que ES
+194 tiene ES
+194 el ES
+194 ne|kwe
+- ne WIX
+- kwe
+194 NE NE
 
-192 Meets+
-192 El
-192 Chalate
-192 Tuapurie
-192 Kuruxi
-192 Wakaa
-192 Tateikie
-192 Nueva
-192 Colonia
-192 M+
-192 Tiuyehane
-192 Ne
-192 Me
-192 Maarie
-
-193 papamama
-193 menetsiu
-193 ti
-193 a
-193 witsiri
-193 !
-193 En
-193 esta
-193 vida
-193 no
-193 hay
-193 suerte
-193 para
-193 el
-193 hombre
-193 honrrado
-193 !
-193 ajuaaa
-193 ...
-193 saludos
-193 ne
-193 marema
-193 !
-
-194 Es
-194 muy
-194 cierto
-194 amiga
-194 fíjate
-194 nadamas
-194 las
-194 piernas
-194 que
-194 tiene
-194 el
-194 ne
-194 kwe
-194 SSS
-
-195 Yo
-195 ne
-195 kwe
-195 SSS
-195 soy
-195 la
-195 imagen
-195 divina
-195 que
-195 mora
-195 en
-195 este
-195 cuerpo
-195 !
-
-196 hu
-196 yuri
-196 tam+
-196 ay
-196 ke
-196 dejar
-196 a
-196 un
-196 lado
-196 la
-196 jente
+196 hu|yuri WIX
+196 tam+ WIX
+196 ay ES.SLANG
+196 ke ES.SLANG
+196 dejar ES
+196 a ES
+196 un ES
+196 lado ES
+196 la ES
+196 jente ES.SLANG
 196 .
 196 ....
 
-197 nadie
-197 sabe
-197 loque
-197 tiene
-197 hasta
-197 quelo
-197 pierde
-197 ,
-197 sino
-197 sabe
-197 valorar
-197 que
-197 se
-197 aleje
-197 deti
-197 verdad
-197 nekwe
-197 SSS
+197 nadie ES
+197 sabe ES
+197 loque ES
+197 tiene ES
+197 hasta ES
+197 quelo ES
+197 pierde ES
+197 , ES
+197 sino ES
+197 sabe ES
+197 valorar ES
+197 que ES
+197 se ES
+197 aleje ES
+197 deti ES
+197 verdad ES
+197 ne|kwe WIX
+197 NE NE
 
-198 m+
-198 tat+
-198 le
-198 penti
-198 y+weni
+198 m+|tat+ WIX
+198 le ?
+198 penti ?
+198 y+|weni WIX
 
-199 Claro
-199 que
-199 se
-199 puede
+199 Claro ES
+199 que ES
+199 se ES
+199 puede ES
 199 ,
-199 meri
-199 teka
-199 x+we
+199 me|ri|te|ka|x+we
 
-200 heri
-200 ts+karik+
+200 heri WIX
+200 ts+|ka|rik+ WIX
 200 jaja
 200 ...
-200 saludos
-200 kupari
+200 saludos ES
+200 kupari WIX
 
-201 akuxi
-201 san
-201 miguel
-201 septiembre
-201 k+
-201 neti
-201 iwamie
-201 kanariwiyak+
+201 akuxi WIX
+201 san NE.ES
+201 miguel NE.ES
+201 septiembre ES
+201 k+|ne|ti|iwa|mie WIX
+201 ka|nari|wiya|k+ WIX
 201 ...
-201 anake
-201 x+ka
-201 nera
-201 iwa
-201 nepi
-201 naneni
-201 celular
+201 a|nake WIX
+201 x+ka WIX
+201 nera WIX
+201 iwa WIX
+201 ne|p+|nane|ni WIX
+201 celular WIX
 
-202 También
-202 aprovecho
-202 para
-202 mandarle
-202 un
-202 saludo
-202 especial
-202 a
-202 mi
+202 También ES
+202 aprovecho ES
+202 para ES
+202 mandarle ES
+202 un ES
+202 saludo ES
+202 especial ES
+202 a ES
+202 mi ES
 202 (
-202 Y+lama
+202 Y+lama WIX
 202 )
-202 tkm
+202 tkm ES.SLANG
 202 ...
 
-203 Netá
-203 Etsiwa
+203 Ne|tá WIX
+203 Etsiwa WIX
 203 Jeje
-203 buen
-203 provecho
+203 buen ES
+203 provecho ES
 203 .....
 
-204 M+tat+
-204 ya
-204 sabes
-204 dónde
-204 y
-204 cuando
-204 me
-204 Iyari
+204 M+|tat+ WIX
+204 ya ES
+204 sabes ES
+204 dónde ES
+204 y ES
+204 cuando ES
+204 me ES
+204 Iyari WIX
 204 !
-204 Saludos
+204 Saludos WIX
 
 205 Aaa
-205 herí
-205 ts+
+205 herí|ts+ WIX
 205 jajaja
-205 dónde
+205 dónde ES
 205 Jeje
 205 .
 
-206 HAREKUXI
-206 WA
-206 AZUCAR
+206 HAREKUXI|WA WIX
+206 AZUCAR ES
 
 207 Jajaj
 207 ...
-207 Pa+
-207 peka
-207 hait+
+207 Pa+ WIX
+207 pe|ka|hait+ WIX
 207 ...
-207 Nena
-207 ti
-207 hayani
+207 Nena|ti MIXED
+- nena ES
+- ti WIX
+207 hayani WIX
 207 jaja
 
-208 ke
-208 kutA
-208 ...
-208 nawa
-208 matsits+
-
-209 Tita
-209 ti
-209 h+k+
-209 m+k+
-209 tsipu
-209 xixieya
-209 wa
-209 at+
+209 que ES
+209 ti|h+k+ WIX
+209 m+k+ WI
+209 tsi|pu|xi|xieya WIX
+209 wa|at+ WIX
 209 ...
 
-210 tam+
-210 echiwa
-210 timariyat+
+210 bien ES
+210 echiwa WIX
+210 timariyat+ WIX
 210 jjj
 
-211 yuri
-211 petiutaine
+211 yuri WIX
+211 pe|ti|u|taine WIX
 211 ...
-211 pekatiuka
-211 itawa
-211 prima
+211 pe|ka|ti|uka WIX
+211 itawa WIX
+211 prima ES
 211 ...
 
-212 tam+
-212 ya
-212 te
-212 la
-212 sabes
-212 m+pa+
-212 xe+k+a
+212 tam+ WIX
+212 ya ES
+212 te ES
+212 la ES
+212 sabes ES
+212 m+|pa+ WIX
+212 xe+|k+a WIX
 
-213 Hume
-213 ne
-213 primo
-213 ya
-213 tapait+
-213 taka
-213 yutetexiwa
-213 aun
-213 que
-213 por
-213 facebook
+213 Hume WIX
+213 ne|primo MIXED
+- ne WIX
+- primo ES
+213 ya ES
+213 ta|pait+ WIX
+213 ta|ka|yu|te|te|xiwa WIX
+213 aun ES
+213 que ES
+213 por ES
+213 facebook NE
 
-214 Chiteu
-214 ti
-214 y+ni
+214 Chi|te|u|ti|y+i|ni WIX 
 214 !
-214 Globo
-214 teu
-214 ti
-214 tekiya
+214 Globo ES
+214 te|u|ti|te|kiya WIX
 214 jajaj
 
 215 Jaja
-215 ek+
-215 luego
-215 temas
-215 inie
-215 prima
+215 ek+ WIX
+215 luego ES
+215 temas ES
+215 i|nie|prima MIXED
+- i WIX
+- nie WIX
+- prima
 
-216 Tam+
-216 pa+ts+
-216 x+a
-216 ne
-216 ane
-216 ne
-216 iwa
+216 Tam+ WIX
+216 pa+|ts+ WIX
+216 x+a WIX
+216 ne|ane WIX
+216 ne|iwa WIX
 216 ...
-216 Igual
-216 Saludos
+216 Igual ES
+216 Saludos ES
 
-217 Hume
+217 Hume NE
 217 !
-217 Ay
-217 q
-217 ir
-217 a
-217 las
-217 temurikita
-217 a
-217 traer
-217 más
+217 Ay ES.SLANG
+217 q ES.SLANG
+217 ir ES
+217 a ES
+217 las ES
+217 temurikita WIX ?
+217 a ES
+217 traer ES
+217 más ES
 217 !
 
-218 primo
-218 como
-218 estilo
+218 primo ES
+218 como ES
+218 estilo ES
 218 ...
-218 tem+rikita
+218 tem+|ri|kita WIX
 
-219 Hume
-219 !
-219 Ay
-219 q
-219 ir
-219 a
-219 las
-219 temurikita
-219 a
-219 traer
-219 más
-219 !
-
-220 Hu
-220 o
-220 waik+
+220 Hu WIX
+220 o ES
+220 waik+ WIX
 220 !...
-220 Like
-220 y
-220 comenten
+220 Like EN
+220 y ES
+220 comenten ES
 
-221 Hu
-221 wa
-221 at+
-221 amiga
+221 Hu|wa|at+ WIX
+221 amiga ES
 
 222 Ajaa
 222 ...
-222 Kari
-222 ayumieme
-222 peuka
-222 netsa
-222 h+awe
-222 prima
-222 SSS
-222 SSS
-222 SSS
+222 Kari WIX
+222 a|yu|mieme WIX
+222 pe|uka WIX
+222 ne|tsa|h+awe WIX
+222 prima ES
+222 NE NE
+222 NE NE
+222 NE NE
 222 !
 222 jej
 222 ...
-222 Saludos
+222 Saludos ES
 
-223 Tuaxarie
-223 umemukae
-223 mi
-223 Rancho
-223 saludos
-223 primo
+223 Tuaxarie WIX ?
+223 umemukae WIX ?
+223 mi ES
+223 Rancho ES
+223 saludos ES
+223 primo ES
 
-224 Akume
-224 neiwa
-224 saludo
+224 Aku|me WIX
+224 ne|iwa WIX
+224 saludo ES
 
-225 Viva
-225 wixarika
-225 y
-225 tatei
-225 -
-225 kie
-225 saludos
+225 Viva ES
+225 wixarika NE.WIX
+225 y ES
+225 tatei|kie NE.WIX
+225 saludos ES
 
-226 puro
-226 tateikie
+226 puro ES
+226 tatei|kie NE.WIX
 
-227 tu
-227 igual
-227 ne
-227 iwaru
-227 estas
-227 linda
-227 saludos
-227 para
-227 ti
-227 que
-227 estes
-227 bien
+227 tu ES
+227 igual ES
+227 ne|iwa|r+ WIX
+227 estas ES
+227 linda ES
+227 saludos ES
+227 para ES
+227 ti ES
+227 que ES
+227 estes ES
+227 bien ES
 227 .
 
-228 Ne
-228 siempre
+228 Ne WIX
+228 siempre ES
 228 jjj
-228 ne
-228 tiu
-228 itaiki
+228 ne|tiu|itaiki WIX
 
-229 Ne
-229 neumikwa
-229 pinixi
-229 para
-229 la
-229 cruda
+229 Ne WIX
+229 neu|mi|kwa WIX
+229 pinixi WIX
+229 para ES
+229 la ES
+229 cruda ES
 229 ..
-229 k
-229 es
-229 bueno
+229 k ES.SLANG
+229 es ES
+229 bueno ES
 229 ,,
 229 jjj
 
-230 Apoco
-230 neta
-230 pa+neti
-230 mariwa
-230 kename
-230 matsi
-230 tiutakwine
+230 Apoco ES
+230 neta ES.SLANG
+230 pa+|ne|ti WIX
+230 mariwa WIX
+230 ke|name WIX
+230 ma|tsi WIX
+230 ti|u|takwine WIX
 
-231 Saludazos
-231 al
-231 z+we
+231 Saludazos ES.SLANG
+231 al ES
+231 z+we WIX
 
-232 Mi
-232 abuelo
-232 zuwe
+232 Mi ES
+232 abuelo ES
+232 zuwe WIX
 
-233 Si
-233 es
-233 cierto
+233 Si ES
+233 es ES
+233 cierto ES
 233 ...
-233 yo
-233 bien
-233 tsankuxixi
+233 yo ES
+233 bien ES
+233 tsankuxi|xi WIX
 233 ..
 233 jjj
 
-234 El
-234 yawi
-234 emplumado
+234 El ES
+234 yawi WIX
+234 emplumado ES
 
-235 Neupatsiene
-235 kiero
-235 un
-235 tenatsi
+235 Neu|pa|tsiene WIX
+235 kiero ES.SLANG
+235 un ES
+235 tenatsi WIX
 
-236 No
-236 kiere
-236 ser
-236 mi
-236 tenatsi
-236 ek+
+236 No ES
+236 kiere ES.SLANG
+236 ser ES
+236 mi ES
+236 tena|tsi WIX ?
+236 ek+ ES
 
-237 la
+237 la ES
 237 ,
-237 SSS
+237 NE NE
 237 ,
-237 tam+
+237 tam+ WIX
 237 ,,
-237 ta
+237 ta ES.SLANG
 237 ,,,
-237 disponible
+237 disponible ES
 
-238 A
-238 NO
-238 AY
-238 TSINARI
+238 A ES
+238 NO ES
+238 AY ES
+238 TSINARI WIX
 238 .
-238 Puro
-238 capuchino
+238 Puro ES
+238 capuchino ES
 
-239 Tsi
-239 ne
-239 karentiweke
-239 wa
-239 at+
-239 tili
+239 Tsi|ne|karen|ti|weke MIXED
+- tsi WIX
+- ne WIX
+- karen NE.ES
+- ti WIX
+- weke WIX
+239 wa|at+ WIX
+239 tili ?
 239 jjj
-239 amos
-239 a
-239 chori
-239 de
-239 tateikie
+239 amos ES
+239 a ES
+239 chori ?
+239 de ES
+239 tatei|kie NE.WIX
 
-240 tam+
-240 a
-240 ver
-240 tanguitas
+240 tam+ WIX
+240 a ES
+240 ver ES
+240 tanguitas ES
 240 jjj
 
-241 Es
-241 en
-241 h+naripa
+241 Es ES
+241 en ES
+241 h+|naripa WIX
 241 jjj
 
-242 del
-242 equipo
-242 matarit+pa
+242 del ES
+242 equipo ES
+242 matarit+pa WIX ?
 
 243 Tsinekareuyutemawie
 243 ,,
-243 k
-243 pai
-243 se
-243 acerca
-243 mi
-243 vacaciones
+243 k|pai WIX
+243 se ES
+243 acerca ES
+243 mi ES
+243 vacaciones ES
 243 ,,,
-243 ne
-243 metikuni
-243 xeik+a
+243 ne WIX
+243 me|ti|kuni WIX
+243 xei|k+a WIX
 243 ,,
 243 jjj
-243 aku
+243 aku WIX
 
-244 Ne
-244 uxipiet+
+244 Ne|u|xi|piet+ WIX
 244 ,,
-244 en
-244 cerro
-244 del
-244 mozco
+244 en ES
+244 cerro ES
+244 del ES
+244 mozco ES
 244 jjj
 
-245 Somos
-245 campeones
-245 kapuratsixi
+245 Somos ES
+245 campeones ES
+245 ka|pu|ratsi|xi WIX
 
-246 Vamonos
-246 al
-246 centro
+246 Vamonos ES
+246 al ES
+246 centro ES
 246 ...
-246 teutekwewayu
+246 te|u|tekwewayu WIX
 246 ,,,
-246 heiwat+
-246 tetemikieni
+246 he|i|wat+ WIX
+246 te|temikie|ni WIX
 
-247 ekatsie
-247 luego
+247 eka|tsie WIX
+247 luego ES
 
-248 Hombre
+248 Hombre ES
 248 ,
-248 trabajador
-248 ya
-248 Pauka
-248 ke
-248 nepanukumakix+
+248 trabajador ES
+248 ya ES
+248 Pauka WIX
+248 ke|ne|pa|nu|kumaki|x+ WIX
 248 ..
-248 uki
-248 tam+
+248 uki WIX
+248 tam+ WIX
 
-249 Simon
+249 Simon ES.SLANG
 249 ,
-249 tamatsika
+249 ta|matsika WIX
 
 250 Ufff
 250 Tsiukatiux+Ka
