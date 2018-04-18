@@ -140,7 +140,7 @@
 19	+imari	WIX
 19	jejeje	OTHER
 19	y	ES
-19	saludos	ES
+19	saludo|s	ES
 19	.....	OTHER
 20	Comienza	ES
 20	un	ES
@@ -358,7 +358,7 @@
 37	kwinie	WIX
 37	chi|pe|u|ti|temaik+	WIX
 37	...	OTHER
-37	Saludos	ES
+37	Saludo|s	ES
 37	xochl	NE.ES
 38	ne|amol|sitha	MIXED
 -	ne	WIX
@@ -373,7 +373,7 @@
 -	tu	ES
 40	hiii	EN
 40	saludias	ES-SLANG
-41	saludos	ES
+41	saludo|s	ES
 41	uka	WIX
 41	va	ES
 42	Ke|kuta	WIX
@@ -1379,7 +1379,7 @@
 157	u|tsi	WIX
 158	Mi	ES
 158	kutsi	WIX
-158	saludos	ES
+158	saludo|s	ES
 158	desde	ES
 158	por	ES
 158	aka	ES.SLANG
@@ -3787,7 +3787,7 @@
 445	K+m+|tsi	WIX
 445	aku	WIX
 445	SSS	NE
-446	Saludos	ES
+446	Saludo|s	ES
 446	Uka|ri|'i	WIX
 446	<3	OTHER
 446	:)	OTHER
