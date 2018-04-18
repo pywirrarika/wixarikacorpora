@@ -1,4 +1,4 @@
-0	chulada	ES-SLANG
+0	chula|da	ES-SLANG
 0	....	OTHER
 0	m+|pa+	WIX
 0	y+|ane|t+	WIX
