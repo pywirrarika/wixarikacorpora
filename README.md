@@ -31,6 +31,7 @@ If you found this information usfull for your academic research please acknowled
 
 Mager, M., Carrillo, D., & Meza, I. (2018). Probabilistic Finite-State morphological segmenter for Wixarika (huichol) language. Journal of Intelligent & Fuzzy Systems, 34(5), 3081-3087.
 
+```
 @article{mager2018probabilistic,
   title={Probabilistic Finite-State morphological segmenter for Wixarika (huichol) language},
   author={Mager, Manuel and Carrillo, Di{\'o}nico and Meza, Ivan},
@@ -41,5 +42,5 @@ Mager, M., Carrillo, D., & Meza, I. (2018). Probabilistic Finite-State morpholog
   year={2018},
   publisher={IOS Press}
 }
-
+```
 
