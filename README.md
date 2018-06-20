@@ -25,4 +25,21 @@ Derivates from this files are:
 
 - *sept.py*  Separates training set from testing set, and reduce the corpus to unique lines. This script is GPL 3+
 
+## Citation
+
+If you found this information usfull for your academic research please acknowledge its use with a citation:
+
+Mager, M., Carrillo, D., & Meza, I. (2018). Probabilistic Finite-State morphological segmenter for Wixarika (huichol) language. Journal of Intelligent & Fuzzy Systems, 34(5), 3081-3087.
+
+@article{mager2018probabilistic,
+  title={Probabilistic Finite-State morphological segmenter for Wixarika (huichol) language},
+  author={Mager, Manuel and Carrillo, Di{\'o}nico and Meza, Ivan},
+  journal={Journal of Intelligent \& Fuzzy Systems},
+  volume={34},
+  number={5},
+  pages={3081--3087},
+  year={2018},
+  publisher={IOS Press}
+}
+
 
