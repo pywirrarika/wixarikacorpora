@@ -26,7 +26,10 @@
 2	Testig|a	ES
 2	jjj	OTHER
 2	guapa|s	ES
-2	uka|rí	WIX
+2	uka|rí|s	MIXED
+- uka WIX
+- rí WIX
+- s ES
 2	😀	OTHER
 2	😍	OTHER
 2	😘	OTHER
@@ -267,8 +270,12 @@
 27	xeik+a	WIX
 27	ne|pe|axix+	WIX
 27	ne|hamik+	MIXED
+- ne WIX
+- hamik+ ES.SLANG
 27	...	OTHER
 27	en|t+t+	MIXED
+- en ES
+- t+t+ WIX
 27	y	WIX
 27	luego	WIX
 27	empapa	WIX
@@ -335,7 +342,9 @@
 33	.	OTHER
 33	'Uxa'a	WIX
 33	ta|equipo	MIXED
-33	m+ra'iwa	ES
+- ta WIX
+- equipo ES
+33	m+ra'iwa	WIX
 33	.	OTHER
 33	Pa+	WIX
 33	reik+a	ES
@@ -343,7 +352,7 @@
 34	la	ES
 34	chula	ES.SLANG
 34	de	ES
-34	wen+iiiii	WIX
+34	wen+iiiii	WIX.SLANG
 34	.	OTHER
 35	la	ES
 35	chula	ES.SLANG
@@ -393,12 +402,12 @@
 42	hay	ES
 42	pala	ES.SLANG
 42	otra	ES
-43	Karik+tsu	WIX	?
+43	Karik+tsu	WIX
 43	pu|ne|naine	WIX
 43	ne|riek+	WIX
 43	a|ku|ek+	WIX
 43	ne|amiga	MIXED
-43	NE	NE
+43	@username	NE
 44	¡	OTHER
 44	RECUERDA	ES
 44	NOS	ES
@@ -409,7 +418,10 @@
 44	DE	ES
 44	JULIO	ES
 44	,	OTHER
-44	M+|PA+|XETA	WIX	
+44	M+|PA+|ROJO	MIXED
+- M+ WIX
+- PA+ WIX
+- ROJO ES
 44	'ERIWANI	WIX
 44	NE|'IWAMA	WIX
 44	!	OTHER
@@ -431,7 +443,7 @@
 46	??	OTHER
 46	Tateikie	NE.WIX
 46	,	OTHER
-46	teyupannie	WIX	?
+46	teyupannie	WIX
 46	h+xie	WIX
 46	,	OTHER
 46	que	ES
@@ -453,15 +465,21 @@
 48	te	ES
 48	vale	ES
 48	ehhh	ES
-48	ne|iwa|ru	WIX
+48	ne|hermana|ru	MIXED
+- ne WIX
+- hermana ES
+- ru WIX
 48	shula	ES.SLANG
 48	elmosha	ES.SLANG
 49	Esa	ES
-49	NE	NE
+49	@username	NE
 49	....	OTHER
 49	el	ES
 49	sapo	ES
-49	ke|re|'ane	WIX
+49	ke|re|es	MIXED
+- ke WIX
+- re WIX
+- es ES
 50	neta	ES.SLANG	
 50	ne|tsu|ri	WIX	
 50	kameti	WIX
@@ -592,7 +610,9 @@
 61	y	ES
 61	hermosa	ES
 61	aku|ts+	WIX
-62	Saludo|s	ES
+62	Saludo|ri	WIX
+- Saludo ES
+- ri WIX
 62	a	ES
 62	ambas	ES
 62	...	OTHER
@@ -737,18 +757,22 @@
 76	Hely	?
 76	wanio	?
 76	ya	?
-76	anet+	WIX	?
+76	a|ne|t+	WIX	?
 77	Jeje	OTHER
 77	.	OTHER
 77	.	OTHER
 77	ya|liku	WIX	?
 77	ne|tio	MIXED
+- ne WIX
+- tio ES
 77	jje	OTHER
 78	Hola	ES
 78	uka	WIX
 78	iymali	WIX
 78	yu|rewy	WIX
 78	ne|amiga	MIXED
+- ne WIX
+- amiga ES
 78	shula	ES.SLANG
 78	.	OTHER
 78	.	OTHER
@@ -759,7 +783,7 @@
 79	Amiga	ES
 79	..	OTHER
 79	eku	WIX
-79	chiere	WIX
+79	tsiere	WIX
 79	muy	WIX
 79	linda	WIX
 79	..	OTHER
@@ -880,6 +904,8 @@
 92	Wixarika	NE.WIX
 93	hiii	EN
 93	ne|cuñado	MIXED
+- ne WIX
+- cuñado ES
 93	,	OTHER
 93	ke|pe|re'|na|ane	WIX
 93	;)	OTHER
@@ -993,7 +1019,7 @@
 103	hará|s	ES
 103	un|a	ES
 103	así	ES
-103	seguroImprovisando	ES
+103	seguro|Improvisando	ES
 103	!	OTHER
 103	!	OTHER
 104	#Ta|m+|Ka|ti|y+we	WIX
@@ -1018,6 +1044,8 @@
 107	...	OTHER
 108	kewata|ri	WIX	?
 108	ne|jugo	MIXED
+- ne WIX
+- jugo ES
 109	Ke|pai	WIX
 109	ts+|ne|ts+k+	WIX
 109	wiya|rie	WIX
@@ -1052,7 +1080,7 @@
 116	es	ES
 116	que	ES
 116	ne	WIX
-116	ka|ne|ta|u|nie	WIX	?
+116	ka|ne|ta|u|nie	WIX
 116	jeje	OTHER
 117	Mejor	ES
 117	nos	ES
@@ -1073,8 +1101,9 @@
 118	Uka	WIX
 119	Te	ES
 119	amo	ES
-119	mi	ES
-119	amor	ES
+119	ne|amor	MIXED
+- ne WIX
+- amor ES
 119	.	OTHER
 119	ok	EN
 119	.	OTHER
@@ -1126,6 +1155,8 @@
 124	ke|tsu	WIX
 124	maineni	WIX	?
 124	ne|primo	MIXED
+- ne WIX
+- primo ES
 124	charli	NE.EN
 125	Que	ES
 125	guapa	ES
@@ -1143,14 +1174,15 @@
 126	,,	OTHER
 126	esta	ES
 126	shido	ES.SLANG
-126	mi	ES
-126	flor	ES
+126	ne|flor	ES
+- ne WIX
+- flor ES
 126	...	OTHER
 127	Obvia|mente	ES
 127	mi	ES
 127	nombre	ES
 127	en	ES
-127	wixa	WIX
+127	wixa	NE.WIX
 127	es	ES
 127	tuli	NE.WIX
 127	wenima	NE.WIX
@@ -1164,8 +1196,8 @@
 128	Chi|né	WIX
 128	kuareune	WIX	?
 128	+ra|xie	WIX	?
-128	ne	WIX
-128	hamika|ma	MIXED
+128	ne|hamika|ma	MIXED
+-	ne	WIX
 -	hamika	ES.SLANG
 -	ma	WIX
 128	saludo|s	ES
@@ -1184,7 +1216,7 @@
 131	uka	WIX
 131	..	OTHER
 132	Ola	ES.SLANG
-132	corazon	ES
+132	corazon	ES.SLANG
 132	ketal	ES.SLANG
 132	asta	ES.SLANG
 132	ke	ES.SLANG
@@ -1276,7 +1308,7 @@
 143	y	ES
 143	más	ES
 143	en	ES
-143	wixarika	OTHER
+143	wixarika	NE.WIX
 143	esas	ES
 143	me	ES
 143	encanta|ron	ES
@@ -1417,8 +1449,9 @@
 162	tsatsaka	WIX
 163	Yo	ES
 163	y	ES
-163	mi	ES
-163	primo	ES
+163	ne|primo	MIXED
+- ne WIX
+- primo ES
 163	Josue	NE.ES
 163	Angel	NE.ES
 163	,	OTHER
@@ -1453,8 +1486,9 @@
 167	musica	ES
 167	del	ES
 167	chalate	ES
-167	mi	ES
-167	rancho	ES
+167	ne|rancho	MIXED
+- ne WIX
+- rancho ES
 167	querido	ES
 167	que	ES
 167	jamas	ES
@@ -1485,7 +1519,7 @@
 171	escuela	ES
 171	de	ES
 171	fútbol	ES
-171	Waikamete	WIX
+171	Waikamete	NE.WIX
 172	Gracias	ES
 172	amiga|s	ES
 172	hechiwa	WIX
@@ -1536,7 +1570,7 @@
 176	uayemanikey	WIX
 177	hu|ri|k+	WIX
 177	amiga	ES
-177	NE	NE.ES
+177	@username	NE.ES
 177	!	OTHER
 177	mejor	ES
 177	te	ES
@@ -1568,7 +1602,7 @@
 178	bien	ES
 178	en	ES
 178	todo	ES
-178	momento*	ES
+178	momento	ES
 178	**	OTHER
 179	igual	ES
 179	amiga	ES
@@ -1592,9 +1626,7 @@
 180	te|u|uwa	OTHER
 180	!	OTHER
 180	saludo|s	ES
-180	ne|marema	MIXED
--	ne	WIX
--	marema	NE.ES
+180	ne|marema	WIX
 180	!	OTHER
 181	Jijijiji	OTHER
 181	k	ES.SLANG
@@ -1662,7 +1694,9 @@
 186	indio	ES
 186	con	ES
 186	mi	ES
-186	ta|kutsi	WIX	
+186	ta|cuñado	MIXED
+- ta WIX
+- cuñado
 188	Si	ES
 188	pero	ES
 188	no	ES
@@ -1889,7 +1923,7 @@
 218	estilo	ES
 218	...	OTHER
 218	tem+|ri|kita	WIX
-220	Hu	WIX
+220	H+	WIX
 220	o	ES
 220	waik+	WIX
 220	!...	OTHER
@@ -1966,8 +2000,9 @@
 231	Saluda|zos	ES.SLANG
 231	al	ES
 231	z+we	WIX
-232	Mi	ES
-232	abuelo	ES
+232	mi|teiwari	MIXED
+- mi ES
+- teiwari WIX
 232	zuwe	WIX
 233	Si	ES
 233	es	ES
@@ -1993,7 +2028,7 @@
 236	ek+	ES
 237	la	ES
 237	,	OTHER
-237	NE	NE
+237	@username	NE
 237	,	OTHER
 237	tam+	WIX
 237	,,	OTHER
@@ -2085,8 +2120,10 @@
 250	ke|wari	WIX
 250	amanayeyeu	WIX
 251	Ne	WIX
-251	luego	ES
-251	tsepa	WIX
+251	luego|tsepa	MIXED
+- luego ES
+- tse WIX
+- pa WIX
 251	..	OTHER
 252	au	WIX
 252	nawa	WIX
@@ -2402,7 +2439,7 @@
 290	para	ES
 290	arregla|r	ES
 290	la	ES
-290	crretera	ES
+290	crretera	ES.SLANG
 290	de	ES
 290	san	NE.ES
 290	andres	NE.ES
@@ -2593,7 +2630,7 @@
 307	...	OTHER
 308	Tam+	WIX
 308	..	OTHER
-308	pe|nkauka|ma	WIX
+308	pe|n|kauka|ma	WIX
 308	...	OTHER
 308	esta|mos	ES
 308	habla|ndo	ES
@@ -2683,7 +2720,7 @@
 317	salud	ES
 317	ne|iwa	WIX
 318	Los	ES
-318	kimenes	?
+318	kimenes	NE.ES
 318	.	OTHER
 318	Xei|k+@	WIX	
 319	Ke|kuta	WIX
@@ -2809,8 +2846,9 @@
 332	más	ES
 332	jefe	ES
 332	que	ES
-332	tu	ES
-332	jefe	ES
+332	a|jefe	MIXED
+- a WIX
+- jafe ES
 332	.....	OTHER
 332	jajajaja	OTHER
 333	WITSIURIE	WIX
@@ -2976,7 +3014,7 @@
 347	ek+	WIX
 347	tsiere	WIX
 347	me	ES
-347	SSS	NE
+347	@username	NE
 347	saludo|s	ES
 347	des	ES
 347	de	ES
@@ -3000,7 +3038,7 @@
 347	tuman	ES.SLANG
 347	foto	ES
 347	famoso	ES
-347	Ami	ES.SLANG
+347	A|mi	ES.SLANG
 347	me|toco	ES.SLANG
 347	Gracia|s	ES
 347	adiós	ES
@@ -3024,7 +3062,7 @@
 348	ne|amika	MIXED
 -	ne	WIX
 -	amika	ES.SLANG
-348	SSS	NE
+348	@username	NE
 348	saludo|s	ES
 349	Sui	ES.SLANG
 349	wixarika	NE.WIX
@@ -3099,8 +3137,8 @@
 360	pa|u|t+a	WIX
 360	kamion	ES.SLANG
 360	,	OTHER
-361	Tamü	WIX
-361	tsükipa	NE.WIX
+361	Tam+	WIX
+361	ts+kipa	NE.WIX
 362	Hhaaaa	OTHER
 362	temayk+	WIX
 362	saludo|s	ES	
@@ -3144,6 +3182,8 @@
 369	Ya|k+	WIX
 370	Kuaay	WIX
 370	ne|jamikaaa	MIXED
+- ne WIX
+- jamikaaa ES.SLANG
 371	Ek+|ta	WIX
 371	tsiere	WIX
 371	guapa	ES
@@ -3166,6 +3206,8 @@
 374	Waikamete	WIX
 375	Ke|name	WIX
 375	ne|amika	MIXED
+- ne ES
+- amika WIX
 375	jujuju	OTHER
 376	Oo	ES
 376	k	ES.SLANG
@@ -3179,6 +3221,8 @@
 376	tkm	ES.SLANG
 376	au	WIX
 376	ne|plimo	MIXED
+- ne WIX
+- plimo ES.SLANG
 376	.	OTHER
 376	..	OTHER
 377	Quien	ES
@@ -3255,7 +3299,10 @@
 387	ek+	WIX
 387	😂	OTHER
 388	Ke|pai|ts+	WIX
-388	ne|ts+k+	WIX
+388	ne|ts+k+|s	MIXED
+- ne WIX
+- ts+k+ WIX
+- s ES
 388	wiya|rie	WIX
 388	yu'|u	WIX
 388	mieme	WIX
@@ -3464,7 +3511,6 @@
 418	en+|tsi	WIX
 418	pe|h+k+	WIX
 418	pues	ES
-418	﻿	OTHER
 419	me	ES
 419	puede	ES
 419	subi|r	ES
@@ -3478,7 +3524,7 @@
 419	pamparios	WIX
 419	.	OTHER
 419	atte	ES
-419	SSS	NE
+419	@username	NE
 420	PASION	NE.ES
 420	HUICHOL	NE.ES
 420	'EK+|TS+	WIX
@@ -3521,7 +3567,6 @@
 426	tu	ES
 426	salud	ES
 426	!!	OTHER
-426	﻿	OTHER
 427	ket++	WIX
 427	aix+	WIX
 427	katiux+ka	WIX
@@ -3757,7 +3802,9 @@
 442	Muy	ES
 442	bien	ES
 442	ustede|s	ES
-442	chula|s	ES
+442	chula|ri	MIXED
+- chula ES.SLANG
+- ri WIX
 442	ce	ES.SLANG
 442	me	ES
 442	cuida|n	ES
@@ -3786,7 +3833,7 @@
 444	JEJE	OTHER
 445	K+m+|tsi	WIX
 445	aku	WIX
-445	SSS	NE
+445	@username	NE
 446	Saludo|s	ES
 446	Uka|ri|'i	WIX
 446	<3	OTHER
@@ -3834,7 +3881,10 @@
 448	mito|logía	ES
 448	wixárika	NE.WIX
 448	nosotro|s	ES
-448	uka|ri	WIX
+448	uka|ri|s	MIXED
+- uka WIX
+- ri WIX
+- s ES
 448	(	OTHER
 448	la|s	ES
 448	mujer|es	ES
@@ -3859,8 +3909,9 @@
 448	,	OTHER
 448	ta|tei	WIX
 448	y+rameka	NE.WIX
-448	nuestra	ES
-448	madre	ES
+448	ne|madre	MIXED
+- ne WIX
+- madre ES
 448	retoño	ES
 448	,	OTHER
 448	entre	ES
@@ -3954,7 +4005,7 @@
 454	.	OTHER
 454	..,	OTHER
 454	aku	WIX
-454	ukar|i	WIX
+454	uka|ri	WIX
 454	.	OTHER
 454	.,	OTHER
 454	ke|xe|hai|t+|ka	WIX
@@ -4506,7 +4557,7 @@
 496	aku	WIX
 496	neamore	MIXED
 -	ne	WIX
--	amore	ES
+-	amore	ES.SLANG
 497	Presenta	ES
 497	a	ES
 497	tu	ES
